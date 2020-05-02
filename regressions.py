@@ -107,125 +107,6 @@ def oldfindCoeffs(COUNTY):
 
     return mymodel.coeffs
 
-def findCoeffs(COUNTY, useCases=True):
-    # Count data points in R0 file for County
-    count = 0
-    with open("main/R0/" + COUNTY + "R0", 'r') as f:
-        for line in f:
-            count += 1
-    useData = tail(open("main/R0/" + COUNTY + "R0", "r"), window=count-2)    
-
-    # Get past CASE data from County file
-    caseData = rf.readDataFile("main/Data/" + COUNTY + ".txt")
-    startIndex = datetime.datetime.strptime("01-22-2020", "%m-%d-%Y").toordinal()
-
-    # Loop through CASE data and search for first case and recreate array
-    newCaseData = []
-    first = True
-    for i in range(len(caseData)):
-        if caseData[i] != 0 and first == True:
-            newCaseData.append(caseData[i])
-            newStartIndex = i + startIndex
-            first = False
-            end = i
-        elif first == False:
-            newCaseData.append(caseData[i])
-            
-    
-    # Avg of newCasesData
-    newCasesData = avg.hullMovingAverage(newCaseData, 5)
-
-    # Find first set of 'defining' case in Avg...
-    first = True
-    for i in range(len(caseData)):
-        if newCasesData[i] >= 5 and first == True:        
-            nextEnd = i
-            break
-    
-    # Create x values for data 
-    xValues = []
-    for i in range(len(caseData)):
-        if (startIndex + i) >= newStartIndex:
-            xValues.append(startIndex+i)
-    
-    # Perform regression on known data (Quadratic)
-    quadraticCaseModel = np.poly1d(np.polyfit(xValues, newCaseData, 2))
-    print(quadraticCaseModel.coeffs)
-
-    # Search R0 file 
-    dates = []
-    R0Values = []
-    for elem in useData:
-        x, y = elem.split(",")
-        x = x.strip(" ")
-        y = y.strip(" ")
-        if float(y) == 0:
-            continue
-        dates.append(x)
-        R0Values.append(float(y))
-    
-    # Find peak cases and associate with R0 and quad regx
-    maxLoc = 0
-
-    for i in range(len(newCasesData)):
-        if newCasesData[i] > newCasesData[maxLoc]:
-            maxLoc = i
-
-    maxDate = datetime.datetime(2020, 1, 22) + datetime.timedelta(days=(end+(maxLoc)))
-
-    # Check if data exists for highest day
-    dateExists = False
-    logger.info("Looking for: " + maxDate.strftime("%m-%d-%Y"))
-    for i in range(len(dates)):
-        if maxDate.strftime("%m-%d-%Y") == dates[i]:
-            dateExists = True
-            maxR0 = R0Values[i]
-            break
-    
-    if not dateExists:
-        logger.critical(COUNTY + ":Run r0 for " + str(maxDate.toordinal()-737444))
-        pipeline.redoPipeline(COUNTY, str(maxDate.toordinal()-737444), useCases)
-        # maxDate = datetime.datetime(2020,4,4)
-        for i in range(len(dates)):
-            if maxDate.strftime("%m-%d-%Y") == dates[i]:
-                dateExists = True
-                maxR0 = R0Values[i]
-                break
-    
-        
-
-    
-
-    maxR0 = max(R0Values)  
-
-    apexX = (quadraticCaseModel.roots[0] + quadraticCaseModel.roots[1]) / 2
-    apexY = (quadraticCaseModel.coeffs[0] * (apexX ** 2)) + (quadraticCaseModel.coeffs[1] * apexX )+ quadraticCaseModel.coeffs[2] 
-
-    linX = (apexY, 0)
-    linY = (maxR0, 0)
-    
-    logger.info(COUNTY + ": " + "Apex: " + str(apexY) + ", maxR0:" + str(maxR0))
-
-    linearR0Model = np.poly1d(np.polyfit(linX, linY, 1))
-    
-    newCaseDataFromRegression = [quadraticCaseModel.coeffs[0] * i ** 2 + quadraticCaseModel.coeffs[1] * i + quadraticCaseModel.coeffs[2] for i in xValues]
-    
-    R0DataEstimates = [linearR0Model.coeffs[0] * i + linearR0Model.coeffs[1] for i in newCaseDataFromRegression]
-    logger.info(COUNTY + ": " + "R0DataEstimates: " + str(R0DataEstimates))
-    # Create R0 Model
-    quadraticR0Model = np.poly1d(np.polyfit(xValues, R0DataEstimates, 2))
-    logger.info("XVALUES: " + str(xValues))
-
-    returnCoeffs = []
-    for i in range(len(quadraticR0Model.coeffs)):
-        returnCoeffs.append(quadraticR0Model.coeffs[i] * 2)
-    if COUNTY == "CACA":
-        with open("main/R0Equations/CA", "w") as f:
-            f.write(str(returnCoeffs).replace("[", "").replace("]", ""))
-            
-    return returnCoeffs
-
-
 def findAnotherCoeffs(COUNTY, useCases=True):
     # Count data points in R0 file for County
     count = 0
@@ -345,6 +226,118 @@ def findAnotherCoeffs(COUNTY, useCases=True):
     return returnCoeffs
 
 
+def findCoeffs(COUNTY, useCases=True):
+    # Count data points in R0 file for County
+    count = 0
+    with open("main/R0/" + COUNTY + "R0", 'r') as f:
+        for line in f:
+            count += 1
+    useData = tail(open("main/R0/" + COUNTY + "R0", "r"), window=count-2)    
+
+    # Get past CASE data from County file
+    caseData = rf.readDataFile("main/Data/" + COUNTY + ".txt")
+    startIndex = datetime.datetime.strptime("01-22-2020", "%m-%d-%Y").toordinal()
+
+    # Loop through CASE data and search for first case and recreate array
+    newCaseData = []
+    first = True
+    for i in range(len(caseData)):
+        if caseData[i] == 0 and first == True:
+            newCaseData.append(caseData[i])
+            newStartIndex = i + startIndex
+            first = False
+            end = i
+        elif first == False:
+            newCaseData.append(caseData[i])
+            
+    
+    # Avg of newCasesData
+    newCasesData = avg.hullMovingAverage(newCaseData, 5)
+
+    # Find first set of 'defining' case in Avg...
+    first = True
+    for i in range(len(caseData)):
+        if newCasesData[i] >= 10 and first == True:        
+            nextEnd = i
+            break
+    
+    # Create x values for data 
+    xValues = []
+    for i in range(len(caseData)):
+        if (startIndex + i) >= newStartIndex:
+            xValues.append(startIndex+i)
+    
+    # Perform regression on known data (Quadratic)
+    quadraticCaseModel = np.poly1d(np.polyfit(xValues[-20:], newCaseData[-20:], 2))
+    print(quadraticCaseModel.coeffs)
+
+    # Search R0 file 
+    dates = []
+    R0Values = []
+    for elem in useData:
+        x, y = elem.split(",")
+        x = x.strip(" ")
+        y = y.strip(" ")
+        if float(y) == 0:
+            continue
+        dates.append(x)
+        R0Values.append(float(y))
+    
+    # Find peak cases and associate with R0 and quad regx
+    maxLoc = 0
+
+    for i in range(len(newCasesData)):
+        if newCasesData[i] > newCasesData[maxLoc]:
+            maxLoc = i
+
+    maxDate = datetime.datetime(2020, 1, 22) + datetime.timedelta(days=(end+(maxLoc)))
+
+    # Check if data exists for highest day
+    dateExists = False
+    logger.info("Looking for: " + maxDate.strftime("%m-%d-%Y"))
+    for i in range(len(dates)):
+        if maxDate.strftime("%m-%d-%Y") == dates[i]:
+            dateExists = True
+            maxR0 = R0Values[i]
+            break
+    
+    if not dateExists:
+        logger.critical(COUNTY + ":Run r0 for " + str(maxDate.toordinal()-737444))
+        pipeline.redoPipeline(COUNTY, str(maxDate.toordinal()-737444), useCases)
+        # maxDate = datetime.datetime(2020,4,4)
+        for i in range(len(dates)):
+            if maxDate.strftime("%m-%d-%Y") == dates[i]:
+                dateExists = True
+                maxR0 = R0Values[i]
+                break
+    
+        
+
+    
+
+    maxR0 = max(R0Values)  
+
+    apexX = (quadraticCaseModel.roots[0] + quadraticCaseModel.roots[1]) / 2
+    apexY = (quadraticCaseModel.coeffs[0] * (apexX ** 2)) + (quadraticCaseModel.coeffs[1] * apexX )+ quadraticCaseModel.coeffs[2] 
+
+    linX = (apexX, quadraticCaseModel.roots[0], datetime.datetime.strptime(dates[-1], "%m-%d-%Y").toordinal())
+    linY = (maxR0, 0, R0Values[-1])
+    
+    
+
+    linearR0Model = np.poly1d(np.polyfit(linX, linY, 1))
+    
+    
+    returnCoeffs = []
+    for i in range(len(linearR0Model.coeffs)):
+        returnCoeffs.append(linearR0Model.coeffs[i])
+    if COUNTY == "CACA":
+        with open("main/R0Equations/CA", "w") as f:
+            f.write(str(returnCoeffs).replace("[", "").replace("]", ""))
+            
+    return returnCoeffs
+
+
 
 
 def findR0(coeffs, b=1):
@@ -358,7 +351,7 @@ def findR0(coeffs, b=1):
 
 
 if __name__ == "__main__":
-    coeffs = findCoeffs("CACA")
+    coeffs = findCoeffs("CASantaClara")
     # coeffs = findCoeffs("CASonoma")
-    print(findR0(coeffs, 737543))
-
+    r0 = findR0(coeffs, 737553)
+    print(r0)

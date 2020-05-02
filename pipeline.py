@@ -103,7 +103,7 @@ def pipeline(CURRENT_DATE, COUNTY, FIRSTCASEDATE, FILE, POPULATION_SIZE, coeffs,
     returnDict = manager.dict()
     
     # Initialize range (+/-), depth
-    searchRange = 0.01 # 0.3
+    searchRange = 0.3 # 0.3
     depth = 2
 
 
@@ -353,28 +353,28 @@ def fullPipeline(maxOut, PUBLISH_RUN, state, tierRange=range(0,6), counties=None
     gc = pg.authorize()    
     sh = gc.open('covidProbabilityModels')
     countyTitles = gSheetsCOVID.getSheets(spreadsheet_id)
-    # if over == False:
-    #     for x in range(len(countyTitles)+1):
-    #         if x != 0:
-    #             sh.del_worksheet(sh[x])
-    #     # gSheets.update_values(spreadsheet_id, "SantaClara!A1:A", 0,0)
+    if over == False:
+        for x in range(len(countyTitles)+1):
+            if x != 0:
+                sh.del_worksheet(sh[x])
+        # gSheets.update_values(spreadsheet_id, "SantaClara!A1:A", 0,0)
 
-    #     # counties = gSheetsCOVID.getCountiesState("CA")
-    #     if counties == None:
-    #         counties = ["Santa Clara", "Alameda", "San Francisco", "Sonoma", "Contra Costa", "San Mateo", "Orange", "Santa Barbara", "Los Angeles"]
-    #     # counties = ["Alameda"]
+        # counties = gSheetsCOVID.getCountiesState("CA")
+        if counties == None:
+            counties = ["Santa Clara", "Alameda", "San Francisco", "Sonoma", "Contra Costa", "San Mateo", "Orange", "Santa Barbara", "Los Angeles"]
+        # counties = ["Alameda"]
         
-    #     for county in counties:
-    #         try:
-    #             countyData = gSheetsCOVID.getCountyData(gSheetsCOVID.fetchCountyId("CA", county), "CA")
-    #             gSheetsCOVID.rewriteSheet(county, "CA", sh, countyData)
-    #             gSheetsCOVID.updateData(county, "CA", sh, spreadsheet_id)
-    #         except Exception as e:
-    #             # logging.basicConfig(filename='pipeline.log',level=logging.DEBUG, datefmt='%Y-%m-%d %H:%M:%S')
-    #             logger.info("Exception in get county data: " + county + ": " + str(e))
+        for county in counties:
+            try:
+                countyData = gSheetsCOVID.getCountyData(gSheetsCOVID.fetchCountyId("CA", county), "CA")
+                gSheetsCOVID.rewriteSheet(county, "CA", sh, countyData)
+                gSheetsCOVID.updateData(county, "CA", sh, spreadsheet_id)
+            except Exception as e:
+                # logging.basicConfig(filename='pipeline.log',level=logging.DEBUG, datefmt='%Y-%m-%d %H:%M:%S')
+                logger.info("Exception in get county data: " + county + ": " + str(e))
         
-    #     # Add CA
-    #     gSheetsCOVID.rewriteSheet("CA", "CA", sh, gSheetsCOVID.fetchStateData("CA"))
+        # Add CA
+        gSheetsCOVID.rewriteSheet("CA", "CA", sh, gSheetsCOVID.fetchStateData("CA"))
     
     countyTitles = gSheetsCOVID.getSheets(spreadsheet_id)
 
