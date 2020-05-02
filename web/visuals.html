@@ -1,0 +1,189 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>
+
+<style>
+  .dropdown-menu{
+    max-height: 150px;
+    width: 90%;
+  }
+
+  .splitscreen{
+    display: flex;
+  }
+
+  .rightSplit{
+    flex: 90%;
+  }
+
+  .leftSplit{
+    flex: 90%;
+  }
+
+  .my-button{
+    flex: 30%;
+  }
+
+</style>
+
+<script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+<script type="text/javascript"></script>
+<script src="plotly.js"></script>
+
+
+
+<body>
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-red w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
+  <div class="w3-container">
+    <h3 class="w3-padding-64"><b>COVID-19:<br>Probablity Based<br>Modeling</b></h3>
+  </div>
+  <div class="w3-bar-block">
+    <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
+    <a href="#visuals" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Predictions</a> 
+    <a href="#how-works" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">How It Works</a> 
+    <!--<a href="blog.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Blog</a> 
+    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a> -->
+  </div>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-red w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-red w3-margin-right" onclick="w3_open()">☰</a>
+  <span>COVID-19: Random Based Modeling</span>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <div class="w3-container" style="margin-top:80px" id="visuals">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Predictions</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+  </div>
+
+  <!-- Dropdown Menus -->
+  <div class="menu splitscreen">
+    <div class="custom-select leftSplit">
+      <select class="dropdown-menu" id="countyDropdown">
+        <option value="None">Select County:</option>
+        <option value="LosAngeles">Los Angeles</option>
+        <option value="Orange">Orange</option>
+        <option value="SantaClara">Santa Clara</option>
+        <option value="SanFrancisco">San Francisco</option>
+        <option value="SanMateo">San Mateo</option>
+
+      </select>
+    </div> 
+    <div class="custom-select rightSplit">
+      <select class="dropdown-menu" id="typeDropdown">
+        <option value="None">Select Data Type:</option>
+        <option value="NewCases">New Cases</option>
+        <option value="TotalCases">Total Cases</option>
+      </select>
+    </div> 
+    <div class="my-button">
+      <button id="displayButton">Display</button>
+    </div>
+  </div>
+
+  <div class="plotly-graph-div" id="plotlygraph">
+  </div>
+
+  <!-- Disclaimer -->
+  <div>
+    <p><b>Disclaimer: This is a personal project and should not be used in any other way than for your viewing. I take no responsibility for any incorrect predictions produced by this model.</b></p>
+  </div>
+
+  <!-- Header for How it works -->
+  <div class="w3-container" style="margin-top:80px" id="how-works">
+    <h1 class="w3-xxxlarge w3-text-red"><b>How It Works</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+  </div>  
+
+  <!-- Information about project -->
+  <div>
+    <p>This model uses the number of reported cases at the county level instead of deaths due to the 
+      comparatively small deaths occurring at the county level of reporting. Furthermore, due to gaps in reporting,
+      this model utilizes a 5 day moving average to calculate future case counts in an attempt to 'smooth' the 
+      bumpy testing curve. <br><br> The predictions use probabilistic models to predict how many of the current 
+      cases could potentially spread the illness to others. Using data from Wuhan, China, an incubation period of 
+      approximately 5 days and an illness period of 12 days is used. <br> The model also calculates an estimated 
+      R0 of the county (number in parentheses), but because of a lack of testing, the reported R0 most likely greatly differs from the true R0 
+      of the population. <br><br> It should be noted that although all of the counties indicate a continuing outbreak in early 
+      June, the outbreak could end at any given time. The predictions assume that everyone in the county will act 
+      exactly as they acted 5-12 days ago, but due to social distancing, this is not the case. As a result, these 
+      models could create viable predictions in the short term, but due to policy implementations, they are inaccurate after 
+      5-12 days.
+    </p>
+  </div>
+
+
+  <!-- Modal for full size images on click-->
+  
+
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right"><a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity"></a></p></div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+
+<script>
+
+  var el = document.getElementById('displayButton');
+
+  el.onclick = function() {
+       var countyRequest = document.getElementById('countyDropdown').selectedOptions[0].value;
+      var typeRequest = document.getElementById('typeDropdown').selectedOptions[0].value;
+      var id = countyRequest+typeRequest;
+
+     fetch('data/'+id+'.json')
+  .then((response) => {
+    return response.json();
+  })
+  .then((data) => {
+    //console.log(data);
+    Plotly.newPlot('plotlygraph', data);
+  });
+  };
+</script>
+
+</body>
+</html>

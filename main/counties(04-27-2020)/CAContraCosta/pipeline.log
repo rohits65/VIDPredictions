@@ -1,0 +1,800 @@
+2020-04-27 21:16:20,625 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:21,763 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:25,677 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:25,680 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:25,731 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:29,447 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:30,668 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:31,195 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:35,966 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:35,971 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:35,999 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:41,462 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:42,981 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:43,774 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:49,097 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:49,173 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:49,176 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:54,020 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:55,553 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:55,900 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:59,796 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:59,803 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:16:59,845 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:02,474 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:03,811 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:04,713 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:09,359 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:09,378 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:09,423 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:15,253 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:16,447 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax
+2020-04-27 21:17:17,108 - __mp_main__ - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 263, in run_path
+    return _run_module_code(code, init_globals, run_name,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 96, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/rohit/Documents/randomExperiments/pipeline.py", line 49, in <module>
+    import r0AverageTest as r0AverageTest
+  File "/Users/rohit/Documents/randomExperiments/r0AverageTest.py", line 17, in <module>
+    import regressions as rgx
+  File "/Users/rohit/Documents/randomExperiments/regressions.py", line 107
+    for i in range(len(coeffs):
+                              ^
+SyntaxError: invalid syntax

@@ -1,0 +1,960 @@
+2020-04-30 22:57:29,454 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,478 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,488 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,495 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,500 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,516 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,524 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,525 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,531 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,533 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,540 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,543 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,547 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,550 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,552 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,557 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,558 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,562 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,562 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,565 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,567 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,569 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,570 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,571 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,577 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,577 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,578 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,578 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,582 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,585 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,585 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,587 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,590 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,594 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,594 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,596 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,598 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,598 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,604 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,605 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,609 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,610 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,613 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,613 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,616 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,617 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,621 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,621 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,623 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,626 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,628 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,628 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,633 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,634 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,634 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,638 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,639 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,641 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,643 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,653 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,654 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,657 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,659 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,666 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,668 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,673 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,677 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,682 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,683 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,685 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,690 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,691 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,693 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,697 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,700 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,701 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,705 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,709 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,712 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,712 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,722 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,724 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,727 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,727 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,734 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,741 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,742 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,742 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,751 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,752 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,754 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,757 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,760 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,762 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,763 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,764 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,764 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,769 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,770 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,771 - r0AverageTest - INFO - start1: 0
+2020-04-30 22:57:29,772 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,778 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,778 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,781 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,786 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,786 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,793 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,793 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,797 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,800 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,807 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,809 - r0AverageTest - INFO - start2: 0
+2020-04-30 22:57:29,813 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,822 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,828 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,839 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,846 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,855 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:29,865 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:29,872 - r0AverageTest - INFO - start3: 0
+2020-04-30 22:57:44,709 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,712 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,717 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,745 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,759 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,762 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,777 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,779 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,798 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:44,806 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,811 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,814 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,815 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,830 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,832 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:44,833 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,851 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,868 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,869 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:44,872 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,888 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,889 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,894 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,897 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,897 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,904 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,906 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,908 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:44,911 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,916 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,919 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,919 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,924 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,925 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,929 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:44,932 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,934 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,940 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:44,942 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,940 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,948 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,958 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,958 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,961 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:44,984 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:44,996 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:44,997 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,005 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,013 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,016 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,021 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,025 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,025 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,028 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,038 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,040 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,047 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,048 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,050 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,056 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,057 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,059 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,060 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,061 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,069 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,071 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,076 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,077 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,080 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,096 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,097 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,100 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,107 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,116 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,124 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,135 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,144 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,150 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,152 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,160 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,172 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,172 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,176 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,182 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,184 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,185 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,190 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,192 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,196 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,199 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,208 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,211 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,216 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,224 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,225 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,226 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,234 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,236 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,239 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,247 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,250 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,253 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,265 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,270 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,274 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,279 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,279 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,284 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,289 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-04-30 22:57:45,289 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,293 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,301 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,306 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,311 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,314 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,329 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:45,329 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,341 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:45,354 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:45,366 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-04-30 22:57:55,627 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,635 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,644 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,648 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,655 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,656 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,661 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,664 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,664 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,666 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,671 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,671 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,672 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,676 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,677 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,679 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,685 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,686 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,687 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,696 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,697 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,697 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,708 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,709 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,711 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,716 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,718 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,721 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,728 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,728 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,730 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,734 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,734 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,739 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,742 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,744 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,748 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,751 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,752 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,757 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,758 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,760 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,764 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,767 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,768 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,769 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,773 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,775 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,776 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,778 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,781 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,784 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,784 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,788 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,790 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,793 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,795 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,796 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,801 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,802 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,805 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,807 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,810 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,811 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,815 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,815 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,816 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,823 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,824 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,825 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,832 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,833 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,834 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,836 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,841 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,843 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,844 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,846 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,847 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,853 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,855 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,855 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,860 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,860 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,862 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,866 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,868 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,870 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,872 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,876 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,876 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,879 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,880 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,885 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,891 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,898 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,900 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,900 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,908 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,909 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,910 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,914 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,917 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,919 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,921 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,923 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,926 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,927 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,927 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,934 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,934 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,934 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,939 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,941 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:57:55,943 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,943 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,948 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:57:55,949 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:57:55,949 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-04-30 22:57:55,960 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-04-30 22:58:05,262 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,273 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,275 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,280 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,284 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,290 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,291 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,296 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,299 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,305 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,307 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,312 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,313 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,317 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,318 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,322 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,325 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,331 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,332 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,333 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,340 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,341 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,342 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,347 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,349 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,351 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,352 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,353 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,357 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,359 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,362 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,365 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,365 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,369 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,370 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,374 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,375 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,379 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,382 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,388 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,389 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,392 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,396 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,397 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,400 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,401 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,403 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,407 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,408 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,409 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,413 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,416 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,417 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,417 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,422 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,426 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,426 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,427 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,432 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,433 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,433 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,438 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,438 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,438 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,445 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,446 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,446 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,453 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,453 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,453 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,461 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,463 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,463 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,476 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,476 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,478 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,481 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,484 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,485 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,485 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,493 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,494 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,495 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,500 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,501 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,502 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,508 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,508 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,510 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,512 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,514 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,519 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,519 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,520 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,527 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,528 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,530 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,535 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,536 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,540 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,547 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,547 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,549 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,553 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,556 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,558 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,559 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,564 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,565 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,566 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,569 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,569 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:05,574 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,577 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-04-30 22:58:05,581 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,588 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,598 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,607 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:05,614 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:05,620 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-04-30 22:58:16,181 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,181 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,188 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,188 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,193 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,193 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,196 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,198 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,203 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,204 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,205 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,210 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,212 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,213 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,214 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,219 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,224 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,224 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,229 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,231 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,231 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,235 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,235 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,239 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,242 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,243 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,248 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,249 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,249 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,253 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,254 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,257 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,259 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,260 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,265 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,266 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,268 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,271 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,273 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,274 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,278 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,280 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,280 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,283 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,287 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,289 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,290 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,292 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,293 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,296 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,299 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,300 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,301 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,306 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,307 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,309 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,313 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,315 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,315 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,319 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,320 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,322 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,325 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,326 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,332 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,333 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,333 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,339 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,340 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,341 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,345 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,347 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,347 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,351 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,352 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,355 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,357 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,358 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,362 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,362 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,366 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,370 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,370 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,374 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,379 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,379 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,381 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,383 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,387 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,388 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,391 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,393 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,394 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,396 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,398 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,401 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,402 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,402 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,407 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,407 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,409 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,414 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,415 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,415 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,419 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,422 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,424 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,427 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,429 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,431 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,431 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,435 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,435 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,439 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,441 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:16,441 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,444 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-04-30 22:58:16,446 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:16,449 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-04-30 22:58:16,451 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,382 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,382 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,385 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,387 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,390 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,392 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,396 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,399 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,402 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,405 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,407 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,410 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,411 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,416 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,417 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,420 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,423 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,426 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,429 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,431 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,431 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,433 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,437 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,438 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,444 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,447 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,447 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,450 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,452 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,454 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,457 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,460 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,462 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,465 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,465 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,477 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,478 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,479 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,485 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,486 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,487 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,492 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,493 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,497 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,500 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,501 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,504 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,505 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,511 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,511 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,514 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,518 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,519 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,522 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,525 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,527 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,533 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,534 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,534 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,540 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,542 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,542 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,549 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,549 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,551 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,556 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,556 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,560 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,561 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,564 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,565 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,570 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,570 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,572 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,576 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,578 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,579 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,583 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,583 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,586 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,589 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,589 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,594 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,596 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,596 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,601 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,602 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,604 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,606 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,608 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,611 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,612 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,616 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,617 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,618 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,622 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,623 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,625 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,629 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,630 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,633 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,633 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,637 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,639 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,640 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,644 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,644 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,646 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,651 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,652 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,652 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,660 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,663 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,663 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-04-30 22:58:27,664 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,669 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,670 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:27,675 - r0AverageTest - INFO - (04-30-2020)minus5R01.66: 0
+2020-04-30 22:58:27,677 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:27,684 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,136 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,150 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,156 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,161 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,170 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,176 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,180 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,181 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,183 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,186 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,187 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,190 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,191 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,194 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,196 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,197 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,202 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,202 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,204 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,206 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,206 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,211 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,212 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,213 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,216 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,218 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,219 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,224 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,228 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,233 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,233 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,237 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,240 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,241 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,246 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,250 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,251 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,257 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,260 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,262 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,264 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,270 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,270 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,273 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,280 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,280 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,282 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,286 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,287 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,289 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,292 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,292 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,294 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,296 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,300 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,302 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,302 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,304 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,305 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,310 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,310 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,311 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,315 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,315 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,318 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,322 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,324 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,324 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,328 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,329 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,333 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,334 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,336 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,338 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,341 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,341 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,346 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,347 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,349 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,351 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,352 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,356 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,358 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,359 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,360 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,366 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,367 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,368 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,372 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,373 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,376 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,377 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,380 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,381 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,383 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,387 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,387 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,390 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,393 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,395 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,397 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,398 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,402 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,403 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,404 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,407 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,409 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,412 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,414 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,414 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,417 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,420 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,422 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,425 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,426 - r0AverageTest - INFO - (04-30-2020)minus5R01.71: 0
+2020-04-30 22:58:37,428 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,431 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:37,434 - r0AverageTest - INFO - (04-30-2020)minus5R01.77: 0
+2020-04-30 22:58:37,439 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:37,445 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,081 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,083 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,096 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,108 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,122 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,123 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,130 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,131 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,132 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,137 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,138 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,138 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,143 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,145 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,145 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,149 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,151 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,152 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,154 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,159 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,160 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,160 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,165 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,166 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,168 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,168 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,171 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,173 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,176 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,176 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,180 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,182 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,184 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,185 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,190 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,190 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,193 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,196 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,196 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,199 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,201 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,203 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,207 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,208 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,209 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,213 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,214 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,215 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,220 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,222 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,227 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,231 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,233 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,233 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,237 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,238 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,240 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,245 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,245 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,247 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,249 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,252 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,254 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,255 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,258 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,260 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,261 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,266 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,267 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,267 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,272 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,273 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,274 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,278 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,279 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,280 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,284 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,284 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,288 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,288 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,291 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,293 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,296 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,300 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,301 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,308 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,309 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,311 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,316 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,316 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,319 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,324 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,325 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,328 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,328 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,336 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,336 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,337 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,343 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,345 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,346 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,351 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,352 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,354 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,356 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,357 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,362 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,362 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,364 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,365 - r0AverageTest - INFO - (04-30-2020)minus5R01.76: 0
+2020-04-30 22:58:47,371 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,371 - r0AverageTest - INFO - (04-30-2020)minus5R01.74: 0
+2020-04-30 22:58:47,377 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,379 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,383 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,388 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,395 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,400 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0
+2020-04-30 22:58:47,408 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(04-30-2020)', 'CASonoma']
+2020-04-30 22:58:47,415 - r0AverageTest - INFO - (04-30-2020)minus5R01.72: 0

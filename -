@@ -1,0 +1,43 @@
+import pandas as pd
+
+class dataFetcher():
+    def getRawData(self, df, county, state, maxOut='', useCases=True):
+        firstCaseDate = "01-22-2020"
+        # listOfCounties = dataFetcher.getStateTable(state, df)
+        # ids = list(listOfCounties.keys())
+        # countyId = None
+        # for iden in ids:
+        #     print(listOfCounties[iden])
+        #     if listOfCounties[iden] == county + " County":
+        #         countyId = iden
+        #         break
+        # print(countyId)
+        countyData = df.loc[df["County Name"] == county + " County"]
+        if len(countyData) > 1:
+            for i in range(len(countyData))
+        
+
+        
+
+
+    def getStateTable(self, state="CA", df=None):
+        beginID = None
+        endId = None
+        for i in range(len(df["State"])):
+            if df["State"][i] == state:
+                if beginID == None:
+                    beginID = i
+                else:
+                    endId = i
+
+        return df["County Name"][beginID+1:endId+1]
+
+
+if __name__ == "__main__":
+    dfPopulation = pd.read_csv('https://query.data.world/s/krp5gafiows54he3hhlvqmu7uaxhqj')
+    dfCases = pd.read_csv('https://query.data.world/s/ca2vuivlwqit5vmybbnckbzyf3mtoq')
+    dataFetcher = dataFetcher()
+    dataFetcher.getRawData(dfCases, "Orange", "CA")
+    # x =dataFetcher.getStateTable("CA", dfCases)
+    # print(list(x.keys()))
+    print("Done")

@@ -1,0 +1,960 @@
+2020-05-01 11:06:11,538 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,571 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,580 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,601 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:11,601 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,631 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:11,635 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,636 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,658 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,665 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,682 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,696 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:11,702 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,717 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:11,729 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,735 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,748 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,754 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,785 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,792 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:11,793 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:11,806 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,827 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,832 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,833 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,857 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,881 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:11,884 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:11,887 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,908 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,913 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,923 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,934 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:11,967 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:11,980 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:11,983 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:11,995 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,016 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,021 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,026 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,063 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,078 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,083 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,092 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,110 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,123 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,125 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,153 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,159 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,170 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,189 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,194 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,212 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,215 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,236 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,256 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,259 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,280 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,289 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,291 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,309 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,318 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,341 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,343 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,364 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,373 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,376 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,395 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,406 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,420 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,426 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,455 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,459 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,467 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,482 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,505 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,508 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,508 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,529 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,538 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,561 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,569 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,589 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,592 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,594 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,626 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,629 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,664 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,665 - r0AverageTest - INFO - start1: 0
+2020-05-01 11:06:12,690 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,700 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,728 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,765 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,779 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,796 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,815 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,849 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,859 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,888 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,898 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,957 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:12,963 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:12,992 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:12,998 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,041 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:13,049 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:13,080 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,085 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,118 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:13,123 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:13,151 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,151 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,192 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:13,192 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:13,213 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,214 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,242 - r0AverageTest - INFO - start2: 0
+2020-05-01 11:06:13,250 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:13,273 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:13,311 - r0AverageTest - INFO - start3: 0
+2020-05-01 11:06:21,547 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,596 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:21,600 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,610 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,634 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,642 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:21,654 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:21,677 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,685 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,687 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:21,716 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:21,722 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:21,726 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,747 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,763 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,781 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:21,789 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:21,825 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:21,834 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,837 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,859 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,877 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:21,884 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:21,916 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:21,927 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,932 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,951 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:21,968 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:21,979 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:21,999 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,002 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,014 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,038 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,043 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,064 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,082 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,095 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,106 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,123 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,133 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,158 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,162 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,178 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,192 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,206 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,214 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,229 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,249 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,252 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,265 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,288 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,292 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,298 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,328 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,333 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,335 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,362 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,365 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,374 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,400 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,408 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,414 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,441 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,441 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,444 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,484 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,487 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,489 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,525 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,526 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,534 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,558 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,574 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,584 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,590 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,608 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,623 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,641 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,646 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,673 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,687 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,707 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,724 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,738 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,759 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,776 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,777 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,797 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,818 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,821 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,834 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,857 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,867 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,876 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,904 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,905 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,916 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:22,937 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,949 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:22,958 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,977 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:22,988 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:22,999 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:23,012 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,039 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:23,039 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,050 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:23,072 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,083 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:23,089 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,111 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,120 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:23,130 - r0AverageTest - INFO - (04-30-2020)minus5R01.35: 0
+2020-05-01 11:06:23,150 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,162 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:23,194 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:23,197 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,232 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:23,240 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:23,273 - r0AverageTest - INFO - (04-30-2020)minus5R01.95: 0
+2020-05-01 11:06:32,310 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,341 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,356 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,392 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:32,394 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,396 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,426 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,428 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,442 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:32,469 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,473 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:32,485 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,506 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,521 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,536 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:32,558 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,569 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:32,572 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,609 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,614 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,616 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:32,650 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,652 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,663 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:32,692 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,697 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,700 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:32,730 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,732 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,738 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:32,766 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:32,771 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,782 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,812 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,824 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:32,825 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,855 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:32,862 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,867 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,889 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,902 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,916 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:32,943 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:32,954 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:32,967 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:32,993 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,003 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,024 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,044 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,065 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,071 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,095 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,107 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,127 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,147 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,169 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,173 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,193 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,236 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,242 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,260 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,317 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,320 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,325 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,377 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,378 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,386 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,425 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,428 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,436 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,473 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,477 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,485 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,528 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,531 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,546 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,566 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,581 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,587 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,607 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,615 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,632 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,643 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,665 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,673 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,677 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,706 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,717 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,725 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,750 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,753 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,767 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,788 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,797 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,812 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,826 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,829 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,849 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,861 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,866 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,896 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,897 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,908 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:33,932 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:33,936 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,947 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,967 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:33,979 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:33,984 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:34,013 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:34,015 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:34,017 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:34,060 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:34,070 - r0AverageTest - INFO - (04-30-2020)minus5R01.45: 0
+2020-05-01 11:06:34,077 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:34,114 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:34,117 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:34,176 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:34,216 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:34,268 - r0AverageTest - INFO - (04-30-2020)minus5R01.85: 0
+2020-05-01 11:06:42,434 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,441 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,487 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,492 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:42,499 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:42,532 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,541 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,544 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:42,571 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:42,585 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,591 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:42,614 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,626 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,631 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:42,655 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:42,669 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:42,669 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,688 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,713 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:42,714 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,736 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:42,750 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,758 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:42,781 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,788 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:42,800 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,818 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,828 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:42,847 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:42,860 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:42,861 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,890 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,895 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,900 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:42,934 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,934 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:42,937 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:42,971 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:42,976 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:42,976 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,001 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,019 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,022 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,049 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,055 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,057 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,093 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,106 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,114 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,136 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,142 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,156 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,178 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,178 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,202 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,217 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,222 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,233 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,257 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,259 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,283 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,297 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,306 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,311 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,335 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,345 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,354 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,369 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,383 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,393 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,413 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,420 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,436 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,445 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,461 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,474 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,488 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,498 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,521 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,533 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,560 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,561 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,588 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,626 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,641 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,642 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,681 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,709 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,750 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,790 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,793 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,807 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,839 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,841 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,849 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,893 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,894 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,900 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:43,935 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:43,938 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:43,942 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,964 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,973 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:43,992 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:44,010 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:44,019 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:44,027 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:44,052 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:44,064 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:44,071 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:44,099 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:44,107 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:44,113 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:44,133 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:44,154 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:44,165 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:44,189 - r0AverageTest - INFO - (04-30-2020)minus5R01.55: 0
+2020-05-01 11:06:44,197 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:44,199 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:44,247 - r0AverageTest - INFO - (04-30-2020)minus5R01.75: 0
+2020-05-01 11:06:53,536 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,536 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,568 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,573 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:53,580 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:53,611 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:53,614 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,615 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,646 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,653 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:53,662 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:53,687 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,691 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:53,697 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,721 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,726 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:53,745 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:53,760 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,763 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:53,786 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,821 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:53,824 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,847 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:53,876 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,878 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:53,897 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,925 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,933 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:53,956 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:53,981 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:53,984 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,008 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,041 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,041 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,060 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,085 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,091 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,093 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,120 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,137 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,140 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,163 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,176 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,177 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,198 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,227 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,229 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,244 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,264 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,273 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,283 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,314 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,326 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,329 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,357 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,369 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,369 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,395 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,410 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,417 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,431 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,442 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,460 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,471 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,478 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,502 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,514 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,514 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,556 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,569 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,573 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,614 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,630 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,636 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,668 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,673 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,681 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,709 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,712 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,717 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,749 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,752 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,762 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,782 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,795 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,802 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,824 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,836 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,837 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,863 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,870 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,888 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:54,907 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:54,924 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:54,926 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,946 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:54,985 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,007 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:55,042 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:55,059 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:55,065 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,080 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,087 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,137 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:55,149 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:55,164 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:55,195 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,209 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,215 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,260 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:55,271 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:55,288 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:55,322 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,331 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,338 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,388 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:06:55,398 - r0AverageTest - INFO - (04-30-2020)minus5R01.7: 0
+2020-05-01 11:06:55,401 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:06:55,473 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:06:55,542 - r0AverageTest - INFO - (04-30-2020)minus5R01.65: 0
+2020-05-01 11:07:04,498 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,532 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,539 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:04,555 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,576 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,581 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:04,595 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:04,609 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,621 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:04,631 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,650 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,654 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:04,677 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:04,678 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,702 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:04,722 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,735 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:04,740 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,763 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,767 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:04,787 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:04,800 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,808 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:04,830 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,842 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,849 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:04,868 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:04,888 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,889 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:04,905 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,921 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,928 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:04,943 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:04,956 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:04,965 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,977 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:04,994 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,014 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,014 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,043 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,047 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,052 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,078 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,087 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,094 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,122 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,125 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,132 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,154 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,163 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,175 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,202 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,205 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,209 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,240 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,241 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,254 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,285 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,292 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,294 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,335 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,337 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,338 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,365 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,382 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,387 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,407 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,424 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,432 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,448 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,474 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,477 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,516 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,533 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,556 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,567 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,593 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,606 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,612 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,635 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,657 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,664 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,687 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,701 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,701 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,727 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,742 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,759 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,769 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,789 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,822 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,827 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,845 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,876 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:05,880 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,911 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:05,925 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,928 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,952 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:05,974 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:05,981 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:06,005 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:06,024 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,028 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,051 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,080 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:06,085 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:06,102 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:06,127 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,131 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,142 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,172 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:06,178 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:06,191 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:06,215 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,229 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,271 - r0AverageTest - INFO - (04-30-2020)minus5R01.6: 0
+2020-05-01 11:07:06,289 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:06,345 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:06,393 - r0AverageTest - INFO - (04-30-2020)minus5R01.64: 0
+2020-05-01 11:07:16,986 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,004 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,014 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,032 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,049 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,056 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,070 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,081 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,106 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,120 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,128 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,151 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,152 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,160 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,188 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,194 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,206 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,227 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,229 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,236 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,267 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,270 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,270 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,297 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,304 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,318 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,341 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,348 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,352 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,368 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,388 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,396 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,408 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,427 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,432 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,439 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,465 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,472 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,479 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,511 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,515 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,516 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,547 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,551 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,564 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,592 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,599 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,608 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,630 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,632 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,650 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,669 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,671 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,689 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,698 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,713 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,725 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,744 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,748 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,765 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,778 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,783 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,813 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,819 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,821 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,849 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,854 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,860 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,881 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,889 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,904 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:17,925 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,931 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:17,940 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,966 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:17,971 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:17,973 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,003 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,009 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,016 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:18,042 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,049 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,053 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:18,075 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,084 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:18,091 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,121 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,122 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,127 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:18,157 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,162 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,165 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:18,200 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,208 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,209 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:18,246 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:18,247 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,253 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,280 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,287 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:18,292 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,320 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:18,320 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,332 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,355 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,364 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:18,365 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,398 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,400 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,400 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:18,429 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,442 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,446 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:18,467 - r0AverageTest - INFO - (04-30-2020)minus5R01.56: 0
+2020-05-01 11:07:18,470 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,487 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,526 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:18,538 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:18,585 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:18,631 - r0AverageTest - INFO - (04-30-2020)minus5R01.53: 0
+2020-05-01 11:07:28,507 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,509 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,563 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,569 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:28,569 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:28,601 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,605 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,607 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:28,641 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:28,642 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,655 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:28,678 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,684 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:28,688 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,721 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:28,723 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,724 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:28,757 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,761 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,766 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:28,804 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,807 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:28,807 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:28,839 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:28,847 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,848 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,868 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,884 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:28,896 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:28,915 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,915 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:28,939 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,963 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:28,963 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:28,990 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,004 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,006 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,022 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,036 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,054 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,081 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,092 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,098 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,116 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,126 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,147 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,169 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,174 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,191 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,205 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,213 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,236 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,245 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,257 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,273 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,274 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,299 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,316 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,327 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,343 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,347 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,364 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,375 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,385 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,413 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,416 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,416 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,447 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,450 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,461 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,489 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,490 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,496 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,528 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,528 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,537 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,567 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,574 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,575 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,606 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,607 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,618 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,652 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,654 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,662 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,688 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,688 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,705 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,726 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,733 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,738 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,761 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,764 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,780 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,800 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,818 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,827 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,872 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,873 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,888 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:29,929 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:29,932 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:29,937 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,967 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,967 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:29,999 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:30,022 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:30,026 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:30,037 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:30,056 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:30,059 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:30,092 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:30,114 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:30,114 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0
+2020-05-01 11:07:30,130 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:30,149 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:30,161 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CAAlameda']
+2020-05-01 11:07:30,190 - r0AverageTest - INFO - (04-30-2020)minus5R01.57: 0
+2020-05-01 11:07:30,215 - r0AverageTest - INFO - (04-30-2020)minus5R01.61: 0
+2020-05-01 11:07:30,227 - r0AverageTest - INFO - (04-30-2020)minus5R01.59: 0

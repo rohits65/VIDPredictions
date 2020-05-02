@@ -1,0 +1,511 @@
+2020-05-01 16:54:01,189 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,191 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,197 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,198 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,214 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,214 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,222 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,225 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,226 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,234 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,234 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,237 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,241 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,244 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,248 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,249 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,250 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,251 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,251 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,258 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,265 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,266 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,267 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,283 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,284 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,284 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,294 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,298 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,299 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,300 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,300 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:01,300 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,305 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,311 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,316 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,318 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,318 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,323 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,331 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,339 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,345 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,345 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,353 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,353 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,366 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,366 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,379 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,382 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,393 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,397 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,398 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,398 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,399 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,405 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,411 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,413 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,417 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,417 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,426 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,427 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,438 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,443 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,445 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,451 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,452 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,453 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,459 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,459 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,459 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,459 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:01,463 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,468 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,472 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,480 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,488 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,494 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,495 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,498 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,498 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,504 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,505 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,518 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,526 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,531 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,533 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,534 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,536 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,543 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,546 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,551 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,551 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,554 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,557 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,558 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:01,559 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,562 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,563 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,567 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,567 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,571 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,580 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,580 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,602 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,602 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,606 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,606 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,613 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,616 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,617 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,620 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,625 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,631 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,631 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,633 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,634 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,639 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,647 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,655 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,656 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,663 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,666 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,666 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,670 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,671 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,671 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:01,674 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,678 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,682 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,682 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,687 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,690 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,690 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,692 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,698 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,698 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,708 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,708 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,726 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,726 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,727 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,734 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,735 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,740 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,744 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,746 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,750 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,754 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,758 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,759 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,759 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,764 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,766 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,769 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,769 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,770 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,777 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,777 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:01,778 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,786 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,792 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,792 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,815 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,815 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,818 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,819 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,824 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,824 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,832 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,836 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,839 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,842 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,843 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,846 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,846 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,852 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,858 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,866 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,874 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,884 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,884 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,892 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,893 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,895 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,895 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,896 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,902 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,909 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,911 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,911 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:01,915 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,920 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,926 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,926 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:01,929 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,929 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,953 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,957 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,957 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,957 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:01,957 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:01,959 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,965 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,969 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,973 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,975 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,978 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,979 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,982 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,982 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:01,983 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,990 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,991 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,995 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:01,995 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,011 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,019 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,019 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,022 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,036 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,037 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,037 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,040 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,048 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,050 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,050 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,055 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,057 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,063 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,069 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,070 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,074 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,080 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,080 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,081 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,081 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,082 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,089 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,096 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,096 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,103 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,110 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,110 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,118 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,118 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,123 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,130 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,132 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,136 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,141 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,143 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,147 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,147 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,147 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,148 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,148 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,160 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,161 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,174 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,186 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,186 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,191 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,196 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,199 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,199 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,200 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,203 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,206 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,211 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,212 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,216 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,217 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,220 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,220 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,223 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,224 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,224 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,234 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,252 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,256 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,257 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,258 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,264 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,264 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,266 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,266 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,271 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,277 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,282 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,284 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,290 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,291 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,292 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,292 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,303 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,303 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,307 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,314 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,319 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,324 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,331 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,332 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,335 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,337 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,337 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,341 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,344 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,346 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,346 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,347 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,355 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,355 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,361 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,362 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,375 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,390 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,390 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,402 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,402 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,405 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,405 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,415 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,418 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,423 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,425 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,425 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,429 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,431 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,435 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,437 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,440 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,440 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,444 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,448 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,457 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,460 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,469 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,469 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,471 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,471 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,472 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,485 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,486 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,489 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,492 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,496 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,496 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,496 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,506 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,506 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,509 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,509 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,527 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,527 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,535 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,536 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,539 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,542 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,547 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,550 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,550 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,553 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,554 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,554 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,554 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,564 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,571 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,575 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,580 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,580 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,580 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,581 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,592 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,592 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,598 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,599 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,603 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,606 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,608 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,608 - r0AverageTest - INFO - start1: 0
+2020-05-01 16:54:02,614 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,622 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,622 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,634 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,643 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,645 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,646 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,657 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,671 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,681 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,683 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,683 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,689 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,696 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,697 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,700 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,713 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,731 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,736 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,736 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,742 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,754 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,754 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,767 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,773 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,774 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,781 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,789 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,801 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,801 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,822 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,822 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,846 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,853 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,854 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,866 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,874 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,884 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,887 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,897 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,902 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,909 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,916 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,916 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:02,921 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,934 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,935 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:02,962 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,962 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,980 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:02,980 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:02,982 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,989 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,994 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:02,997 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,003 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,005 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,010 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,014 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,014 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:03,016 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,021 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,021 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:03,042 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,042 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,061 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,069 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,077 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,085 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,093 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,094 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:03,107 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,107 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,118 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,121 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,121 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,126 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,134 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,137 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,142 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,147 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,148 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,154 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,154 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:03,154 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,162 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,171 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,180 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,180 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:03,180 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,180 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,194 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,201 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,209 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,216 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,223 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,223 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:03,250 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,251 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,261 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,261 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,264 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,271 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,274 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,278 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,285 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,286 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,293 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,293 - r0AverageTest - INFO - start2: 0
+2020-05-01 16:54:03,294 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,305 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,314 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,325 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,325 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:03,362 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,363 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,391 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,407 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,421 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,428 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,435 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,444 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,444 - r0AverageTest - INFO - start3: 0
+2020-05-01 16:54:03,472 - r0AverageTest - INFO - ['', 'Users', 'rohit', 'Documents', 'randomExperiments', 'main', 'counties(05-01-2020)', 'CACA']
+2020-05-01 16:54:03,472 - r0AverageTest - INFO - CURRENT LINE: ['-0.03531367551826282', ' 52086.13399425061', ' -19206195007.857452']
+2020-05-01 16:54:03,484 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,494 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,502 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,512 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,521 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,529 - r0AverageTest - WARNING - BEFORE IF
+2020-05-01 16:54:03,530 - r0AverageTest - INFO - start3: 0
