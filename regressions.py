@@ -267,8 +267,13 @@ def findCoeffs(COUNTY, useCases=True):
         if (startIndex + i) >= newStartIndex:
             xValues.append(startIndex+i)
     
-    # Perform regression on known data (Quadratic)
-    quadraticCaseModel = np.poly1d(np.polyfit(xValues[-20:], newCaseData[-20:], 2))
+    # Perform regression on known data (Quadratic) until coeff[0] is negative (negative slope)
+    backData = -10
+    while True:
+        quadraticCaseModel = np.poly1d(np.polyfit(xValues[backData:], newCaseData[backData:], 2))
+        if quadraticCaseModel.coeffs[0] < -0.1:
+            break
+        backData -= 1
     print(quadraticCaseModel.coeffs)
 
     # Search R0 file 
@@ -351,7 +356,6 @@ def findR0(coeffs, b=1):
 
 
 if __name__ == "__main__":
-    coeffs = findCoeffs("CASantaClara")
+    coeffs = findCoeffs("CACA")
     # coeffs = findCoeffs("CASonoma")
-    r0 = findR0(coeffs, 737553)
-    print(r0)
+    r0 = findR0(coeffs, 737546)

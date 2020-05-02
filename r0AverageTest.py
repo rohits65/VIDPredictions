@@ -326,15 +326,8 @@ def model(r0In, r0ArrIn, file, knownData, startingDay, totalPopulation, origin, 
                 else:
                     r0 = rgx.findR0(coeffs, ordinalStartDay)
                 logger.warning("GOT R0")
-                try:
-                    maxR0 = stateR0Equation(coeffsForState, ordinalStartDay) 
-                    logger.info("MAX" + str(maxR0) + " USE: " + str(r0))
-                    if r0 > maxR0:
-                        r0 = maxR0
-                except Exception as e:
-                    logger.critical("Unable to run R0 est: " + e)
-                    pass
-                if r0 < 0:
+                
+                if r0 < 0 or isinstance(r0, complex):
                     r0 = 0
                 elif r0 > 2.2:
                     r0BadCount += 1
@@ -613,8 +606,10 @@ def stateR0Equation(coeffsForState, ordinalStartDay):
             break
     sumx = 0
     x = len(coeffsForState) - 1
-    if len(coeffsForState) == 3:
-        sumx = coeffsForState[0] * (ordinalStartDay ** 2) + coeffsForState[1] * (ordinalStartDay) + coeffsForState[2] 
+    for coeef in coeffsForState:
+        sumx += coeef * ordinalStartDay ** (x)
+        x -= 1
+    return round(sumx, 2)
     # for coeefForState in coeffsForState:
     #     sumx += coeefForState * (ordinalStartDay ** (x))
     #     x -= 1

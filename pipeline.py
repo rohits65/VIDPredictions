@@ -361,7 +361,8 @@ def fullPipeline(maxOut, PUBLISH_RUN, state, tierRange=range(0,6), counties=None
 
         # counties = gSheetsCOVID.getCountiesState("CA")
         if counties == None:
-            counties = ["Santa Clara", "Alameda", "San Francisco", "Sonoma", "Contra Costa", "San Mateo", "Orange", "Santa Barbara", "Los Angeles"]
+            # counties = ["Santa Clara", "Alameda", "San Francisco", "Sonoma", "Contra Costa", "San Mateo", "Orange", "Santa Barbara", "Los Angeles"]
+            counties = ["Santa Clara", "Alameda", "Contra Costa", "Orange", "Santa Barbara", "Los Angeles"]
         # counties = ["Alameda"]
         
         for county in counties:
@@ -374,7 +375,7 @@ def fullPipeline(maxOut, PUBLISH_RUN, state, tierRange=range(0,6), counties=None
                 logger.info("Exception in get county data: " + county + ": " + str(e))
         
         # Add CA
-        gSheetsCOVID.rewriteSheet("CA", "CA", sh, gSheetsCOVID.fetchStateData("CA"))
+        # gSheetsCOVID.rewriteSheet("CA", "CA", sh, gSheetsCOVID.fetchStateData("CA"))
     
     countyTitles = gSheetsCOVID.getSheets(spreadsheet_id)
 
