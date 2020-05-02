@@ -171,12 +171,12 @@ def operate(file, returnDict, newByDayReal, process, r0, firstCaseDate, trueData
     # newByDayReal = list(uniform_filter1d(x, size=N))
 
     # UNCOMMENT
-    newCases[0] = newCases[0][0:(len(newCases[0])-5)]
-    newCases[1] = newCases[1][0:(len(newCases[1])-5)]
-    newCases[2] = newCases[2][0:(len(newCases[2])-5)]
-    totalCases[0] = totalCases[0][0:(len(totalCases[0])-5)]
-    totalCases[1] = totalCases[1][0:(len(totalCases[1])-5)]
-    totalCases[2] = totalCases[2][0:(len(totalCases[2])-5)]
+    newCases[0] = newCases[0][0:(len(newCases[0]))]
+    newCases[1] = newCases[1][0:(len(newCases[1]))]
+    newCases[2] = newCases[2][0:(len(newCases[2]))]
+    totalCases[0] = totalCases[0][0:(len(totalCases[0]))]
+    totalCases[1] = totalCases[1][0:(len(totalCases[1]))]
+    totalCases[2] = totalCases[2][0:(len(totalCases[2]))]
 
     print("Creating imgs . . .",end=' ')
     

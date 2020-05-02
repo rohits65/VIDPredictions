@@ -411,3 +411,33 @@
 2020-05-01 19:52:35,244 - regressions - INFO - Looking for: 04-04-2020
 2020-05-01 19:52:35,246 - __mp_main__ - INFO - CASanMateo: Using coeffs
 2020-05-01 19:52:35,246 - __mp_main__ - INFO - CASanMateo: [-0.25628322754324784, 189022.57544928897]
+2020-05-01 21:25:31,616 - regressions - INFO - Looking for: 04-16-2020
+2020-05-01 21:26:38,147 - regressions - INFO - Looking for: 04-16-2020
+2020-05-01 21:26:47,065 - __mp_main__ - INFO - CASantaBarbara:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 5, 1, 4, 5, 0, 6, 2, 16, 5, 17, 4, 20, 11, 12, 0, 41, 16, 6, 18, 26, 10, 15, 17, 4, 3, 17, 29, 21, 20, 19, 0, 21, 22, 13, 11, 11, 9, 9, 2, 2, 0, 12, 11, 10]
+2020-05-01 21:27:10,452 - __mp_main__ - INFO - CASantaBarbara: 0.55,11
+2020-05-01 21:27:10,455 - __mp_main__ - INFO - CASantaBarbara: 1.1,52
+2020-05-01 21:27:10,455 - __mp_main__ - INFO - CASantaBarbara: 1.65,70
+2020-05-01 21:27:19,703 - __mp_main__ - INFO - CASantaBarbara: 0.25,99999
+2020-05-01 21:27:19,703 - __mp_main__ - INFO - CASantaBarbara: 0.55,9
+2020-05-01 21:27:19,703 - __mp_main__ - INFO - CASantaBarbara: 0.85,29
+2020-05-01 21:27:28,817 - __mp_main__ - INFO - CASantaBarbara: 0.35,38
+2020-05-01 21:27:28,817 - __mp_main__ - INFO - CASantaBarbara: 0.55,10
+2020-05-01 21:27:28,817 - __mp_main__ - INFO - CASantaBarbara: 0.75,18
+2020-05-01 21:27:39,256 - __mp_main__ - INFO - CASantaBarbara: 0.45,22
+2020-05-01 21:27:39,259 - __mp_main__ - INFO - CASantaBarbara: 0.55,11
+2020-05-01 21:27:39,259 - __mp_main__ - INFO - CASantaBarbara: 0.65,1
+2020-05-01 21:27:49,188 - __mp_main__ - INFO - CASantaBarbara: 0.6,3
+2020-05-01 21:27:49,188 - __mp_main__ - INFO - CASantaBarbara: 0.65,2
+2020-05-01 21:27:49,188 - __mp_main__ - INFO - CASantaBarbara: 0.7,5
+2020-05-01 21:27:59,278 - __mp_main__ - INFO - CASantaBarbara: 0.61,5
+2020-05-01 21:27:59,280 - __mp_main__ - INFO - CASantaBarbara: 0.65,3
+2020-05-01 21:27:59,280 - __mp_main__ - INFO - CASantaBarbara: 0.69,7
+2020-05-01 21:28:08,948 - __mp_main__ - INFO - CASantaBarbara: 0.62,2
+2020-05-01 21:28:08,949 - __mp_main__ - INFO - CASantaBarbara: 0.65,1
+2020-05-01 21:28:08,949 - __mp_main__ - INFO - CASantaBarbara: 0.68,5
+2020-05-01 21:28:19,871 - __mp_main__ - INFO - CASantaBarbara: 0.63,2
+2020-05-01 21:28:19,874 - __mp_main__ - INFO - CASantaBarbara: 0.65,4
+2020-05-01 21:28:19,874 - __mp_main__ - INFO - CASantaBarbara: 0.67,4
+2020-05-01 21:28:22,376 - regressions - INFO - Looking for: 04-16-2020
+2020-05-01 21:28:22,378 - __mp_main__ - INFO - CASantaBarbara: Using coeffs
+2020-05-01 21:28:22,378 - __mp_main__ - INFO - CASantaBarbara: [-0.0448351821597646, 33068.43805680249]

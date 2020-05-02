@@ -8,7 +8,7 @@ import datetime
 import scipy
 import average as avg
 import pipeline
-
+import cmath
 
 import sys
 import logging
@@ -271,7 +271,9 @@ def findCoeffs(COUNTY, useCases=True):
     backData = -10
     while True:
         quadraticCaseModel = np.poly1d(np.polyfit(xValues[backData:], newCaseData[backData:], 2))
-        if quadraticCaseModel.coeffs[0] < -0.1:
+        num = cmath.sqrt(quadraticCaseModel.coeffs[0])
+
+        if isinstance(num, complex) and num.imag != 0:
             break
         backData -= 1
     print(quadraticCaseModel.coeffs)
