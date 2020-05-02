@@ -8,7 +8,7 @@ import datetime
 import scipy
 import average as avg
 import pipeline
-import cmath
+import math
 
 import sys
 import logging
@@ -271,11 +271,18 @@ def findCoeffs(COUNTY, useCases=True):
     backData = -10
     while True:
         quadraticCaseModel = np.poly1d(np.polyfit(xValues[backData:], newCaseData[backData:], 2))
-        num = cmath.sqrt(quadraticCaseModel.coeffs[0])
+        num = math.modf(quadraticCaseModel.coeffs[0])
+   
 
-        if isinstance(num, complex) and num.imag != 0:
+        if num[0] < 0.1 or quadraticCaseModel.coeffs[0] < -0.1:
             break
         backData -= 1
+        if backData <= -30:
+            num = math.modf(quadraticCaseModel.coeffs[0])
+            if num[0] < 0.1 or quadraticCaseModel.coeffs[0] < -0.1:
+                break
+            quadraticCaseModel.coeffs[0] *= -1
+            break
     print(quadraticCaseModel.coeffs)
 
     # Search R0 file 
@@ -358,6 +365,6 @@ def findR0(coeffs, b=1):
 
 
 if __name__ == "__main__":
-    coeffs = findCoeffs("CACA")
+    coeffs = findCoeffs("CAContraCosta")
     # coeffs = findCoeffs("CASonoma")
     r0 = findR0(coeffs, 737546)
