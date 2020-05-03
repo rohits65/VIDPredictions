@@ -375,8 +375,8 @@ def fullPipeline(maxOut, PUBLISH_RUN, state, tierRange=range(0,6), counties=None
                 logger.info("Exception in get county data: " + county + ": " + str(e))
         
         # Add CA
-        # gSheetsCOVID.rewriteSheet("CA", "CA", sh, gSheetsCOVID.fetchStateData("CA"))
-        # gSheetsCOVID.updateStateData("CA", sh, spreadsheet_id)
+        gSheetsCOVID.rewriteSheet("CA", "CA", sh, gSheetsCOVID.fetchStateData("CA"))
+        gSheetsCOVID.updateStateData("CA", sh, spreadsheet_id)
     
     countyTitles = gSheetsCOVID.getSheets(spreadsheet_id)
 
@@ -496,7 +496,7 @@ if __name__ == "__main__":
     #     fullPipeline('89', False, "CA", counties=[county])
         
     # fullPipeline('')
-    fullPipeline('', True, "CA", counties=["Orange", "Los Angeles"])
+    fullPipeline('', True, "CA")
     notify.notify("VID Model", "Completed main")
     
     # returnDict = {}
