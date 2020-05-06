@@ -329,15 +329,18 @@ def model(r0In, r0ArrIn, file, knownData, startingDay, totalPopulation, origin, 
                     stateR0 = stateR0Equation(coeffsForState, ordinalStartDay) 
                 logger.warning("GOT R0")
                 logger.info(r0)
-                logger.info(stateR0)
+                
                 try:
+                    logger.info(stateR0)
                     if r0 > stateR0:
                         r0 = stateR0
                 except Exception as e:
                     logger.info(e)
                     pass
-                if r0 < 0 or isinstance(r0, complex):
+                if r0 < 0:
                     r0 = 0
+                elif isinstance(r0, complex):
+                    r0 = stateR0
                 elif r0 > 2.2:
                     r0BadCount += 1
                     r0 = 2.2

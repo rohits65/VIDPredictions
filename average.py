@@ -62,6 +62,7 @@ def hullMovingAverage(arr, N):
 
 if __name__ == "__main__":
     print(average([2,0,6,0,5,1], 5))
-    print(hullMovingAverage([2,0,6,0,5,1], 5))
+    print(weightedMovingAverage([2,0,6,0,5], 5))
+    print(hullMovingAverage([2,0,6,0,5,1,8,21,34,2,74,3,9,3], 5))
         
 

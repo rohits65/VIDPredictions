@@ -274,7 +274,7 @@ def findCoeffs(COUNTY, useCases=True):
         num = math.modf(quadraticCaseModel.coeffs[0])
    
 
-        if num[0] < 0.1 or quadraticCaseModel.coeffs[0] < -0.1:
+        if num[0] < -0.1 or quadraticCaseModel.coeffs[0] < -0.1:
             break
         backData -= 1
         if backData <= -30:
@@ -284,6 +284,8 @@ def findCoeffs(COUNTY, useCases=True):
             quadraticCaseModel.coeffs[0] *= -1
             break
     print(quadraticCaseModel.coeffs)
+    print(backData)
+    print(findR0(quadraticCaseModel.coeffs, 737546))
 
     # Search R0 file 
     dates = []
@@ -365,6 +367,8 @@ def findR0(coeffs, b=1):
 
 
 if __name__ == "__main__":
-    coeffs = findCoeffs("CAContraCosta")
+    coeffs = findCoeffs("CASantaClara")
+    # print(coeffs)
     # coeffs = findCoeffs("CASonoma")
-    r0 = findR0(coeffs, 737546)
+    # r0 = findR0(coeffs, 737546)
+    # print(r0)
