@@ -336,8 +336,8 @@ def findCoeffs(COUNTY, useCases=True):
     apexX = (quadraticCaseModel.roots[0] + quadraticCaseModel.roots[1]) / 2
     apexY = (quadraticCaseModel.coeffs[0] * (apexX ** 2)) + (quadraticCaseModel.coeffs[1] * apexX )+ quadraticCaseModel.coeffs[2] 
 
-    linX = (apexX, quadraticCaseModel.roots[0], datetime.datetime.strptime(dates[-1], "%m-%d-%Y").toordinal())
-    linY = (maxR0, 0, R0Values[-1])
+    linX = (apexX, quadraticCaseModel.roots[0])#, datetime.datetime.strptime(dates[-1], "%m-%d-%Y").toordinal())
+    linY = (maxR0, 0)#, R0Values[-1])
     
     
 
