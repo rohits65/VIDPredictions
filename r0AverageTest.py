@@ -332,8 +332,8 @@ def model(r0In, r0ArrIn, file, knownData, startingDay, totalPopulation, origin, 
                 
                 try:
                     logger.info(stateR0)
-                    if r0 > stateR0:
-                        r0 = stateR0
+                    if r0 >= stateR0*0.75:
+                        r0 = stateR0*0.75
                 except Exception as e:
                     logger.info(e)
                     pass

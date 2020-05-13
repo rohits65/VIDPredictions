@@ -1,4 +1,4 @@
-# 2
+# 1
 # COUNTY_NAME = CAOrange
 # FIRST_CASE_DATE = 01-22-2020
 # POPULATION_SIZE = 179054
@@ -107,4 +107,8 @@
 2
 0
 5
-12
+4
+4
+1
+5
+3
