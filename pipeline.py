@@ -361,7 +361,7 @@ def fullPipeline(maxOut, PUBLISH_RUN, state, tierRange=range(0,6), counties=None
 
         # counties = gSheetsCOVID.getCountiesState("CA")
         if counties == None:
-            counties = ["Santa Clara", "Alameda", "San Francisco", "Sonoma", "Contra Costa", "San Mateo", "Orange", "Santa Barbara", "Los Angeles"]
+            counties = ["Santa Clara", "Alameda", "San Francisco", "Sonoma", "Contra Costa", "San Mateo", "Orange", "Santa Barbara", "Los Angeles", "San Diego", "Sacramento"]
             # counties = ["Santa Clara", "Alameda", "Contra Costa", "Orange", "Santa Barbara", "Los Angeles"]
         # counties = ["Alameda"]
         

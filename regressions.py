@@ -268,18 +268,18 @@ def findCoeffs(COUNTY, useCases=True):
             xValues.append(startIndex+i)
     
     # Perform regression on known data (Quadratic) until coeff[0] is negative (negative slope)
-    backData = -10
+    backData = -3
     while True:
         quadraticCaseModel = np.poly1d(np.polyfit(xValues[backData:], newCaseData[backData:], 2))
         num = math.modf(quadraticCaseModel.coeffs[0])
    
 
-        if num[0] < -0.1 or quadraticCaseModel.coeffs[0] < -0.1:
+        if num[0] < -0.2 or quadraticCaseModel.coeffs[0] < -0.2:
             break
         backData -= 1
         if backData <= -30:
             num = math.modf(quadraticCaseModel.coeffs[0])
-            if num[0] < 0.1 or quadraticCaseModel.coeffs[0] < -0.1:
+            if num[0] < 0.2 or quadraticCaseModel.coeffs[0] < -0.2:
                 break
             quadraticCaseModel.coeffs[0] *= -1
             break
