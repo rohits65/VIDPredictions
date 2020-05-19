@@ -7016,3 +7016,351 @@
 2020-05-17 13:52:33,457 - regressions - INFO - Looking for: 04-18-2020
 2020-05-17 13:52:33,461 - __mp_main__ - INFO - CALosAngeles: Using coeffs
 2020-05-17 13:52:33,461 - __mp_main__ - INFO - CALosAngeles: [-0.4756669507490618, 350834.5928123657]
+2020-05-17 21:13:20,473 - regressions - INFO - Looking for: 05-15-2020
+2020-05-17 21:13:36,492 - __mp_main__ - INFO - CACA:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 2, 5, 3, 3, 2, 5, 5, 4, 7, 12, 15, 16, 17, 21, 11, 17, 33, 30, 31, 38, 39, 29, 37, 59, 57, 41, 50, 36, 45, 49, 53, 100, 92, 40, 136, 30, 47, 93, 113, 97, 84, 79, 23, 63, 89, 76, 90, 97, 57, 23, 74, 94, 83, 81, 87, 62, 27, 61, 100, 92, 80, 108, 51, 32]
+2020-05-17 21:14:23,303 - __mp_main__ - INFO - CACA: 0.55,424
+2020-05-17 21:14:23,306 - __mp_main__ - INFO - CACA: 1.1,140
+2020-05-17 21:14:23,307 - __mp_main__ - INFO - CACA: 1.65,49
+2020-05-17 21:14:58,370 - __mp_main__ - INFO - CACA: 1.35,98
+2020-05-17 21:14:58,373 - __mp_main__ - INFO - CACA: 1.65,57
+2020-05-17 21:14:58,373 - __mp_main__ - INFO - CACA: 1.95,6
+2020-05-17 21:15:32,496 - __mp_main__ - INFO - CACA: 1.75,45
+2020-05-17 21:15:32,534 - __mp_main__ - INFO - CACA: 1.95,25
+2020-05-17 21:15:32,534 - __mp_main__ - INFO - CACA: 2.15,4
+2020-05-17 21:16:09,782 - __mp_main__ - INFO - CACA: 2.05,11
+2020-05-17 21:16:09,785 - __mp_main__ - INFO - CACA: 2.15,2
+2020-05-17 21:16:09,785 - __mp_main__ - INFO - CACA: 2.25,27
+2020-05-17 21:16:45,921 - __mp_main__ - INFO - CACA: 2.1,6
+2020-05-17 21:16:45,923 - __mp_main__ - INFO - CACA: 2.15,16
+2020-05-17 21:16:45,924 - __mp_main__ - INFO - CACA: 2.2,10
+2020-05-17 21:17:16,710 - __mp_main__ - INFO - CACA: 2.06,3
+2020-05-17 21:17:16,711 - __mp_main__ - INFO - CACA: 2.1,2
+2020-05-17 21:17:16,712 - __mp_main__ - INFO - CACA: 2.14,7
+2020-05-17 21:17:42,185 - __mp_main__ - INFO - CACA: 2.07,14
+2020-05-17 21:17:42,186 - __mp_main__ - INFO - CACA: 2.1,3
+2020-05-17 21:17:42,186 - __mp_main__ - INFO - CACA: 2.13,2
+2020-05-17 21:18:07,849 - __mp_main__ - INFO - CACA: 2.11,0
+2020-05-17 21:18:07,849 - __mp_main__ - INFO - CACA: 2.13,10
+2020-05-17 21:18:07,850 - __mp_main__ - INFO - CACA: 2.15,0
+2020-05-17 21:18:34,449 - regressions - INFO - Looking for: 05-15-2020
+2020-05-17 21:18:34,456 - __mp_main__ - INFO - CACA: Using coeffs
+2020-05-17 21:18:34,457 - __mp_main__ - INFO - CACA: [-0.8586031286689312, 633273.4084177073]
+2020-05-17 21:19:57,907 - regressions - INFO - Looking for: 04-11-2020
+2020-05-17 21:20:04,768 - __mp_main__ - INFO - CASanFrancisco:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 7, 0, 6, 0, 3, 0, 5, 5, 9, 3, 3, 8, 19, 14, 0, 24, 23, 21, 26, 45, 56, 29, 32, 34, 23, 37, 16, 47, 32, 39, 15, 39, 54, 48, 73, 60, 15, 85, 30, 26, 6, 39, 79, 20, 59, 15, 2, 69, 38, 14, 54, 16, 44, 22, 9, 24, 20, 59, 22, 104, 26, 52, 47, 38, 52, 11, 23, 17, 5, 27, 28, 37]
+2020-05-17 21:20:38,261 - __mp_main__ - INFO - CASanFrancisco: 0.55,149
+2020-05-17 21:20:38,263 - __mp_main__ - INFO - CASanFrancisco: 1.1,2
+2020-05-17 21:20:38,263 - __mp_main__ - INFO - CASanFrancisco: 1.65,38
+2020-05-17 21:21:15,486 - __mp_main__ - INFO - CASanFrancisco: 0.8,70
+2020-05-17 21:21:15,489 - __mp_main__ - INFO - CASanFrancisco: 1.1,6
+2020-05-17 21:21:15,489 - __mp_main__ - INFO - CASanFrancisco: 1.4,23
+2020-05-17 21:21:57,497 - __mp_main__ - INFO - CASanFrancisco: 0.9,29
+2020-05-17 21:21:57,499 - __mp_main__ - INFO - CASanFrancisco: 1.1,7
+2020-05-17 21:21:57,500 - __mp_main__ - INFO - CASanFrancisco: 1.3,19
+2020-05-17 21:22:37,933 - __mp_main__ - INFO - CASanFrancisco: 1.0,0
+2020-05-17 21:22:37,934 - __mp_main__ - INFO - CASanFrancisco: 1.1,8
+2020-05-17 21:22:37,935 - __mp_main__ - INFO - CASanFrancisco: 1.2,12
+2020-05-17 21:23:17,245 - __mp_main__ - INFO - CASanFrancisco: 0.95,12
+2020-05-17 21:23:17,246 - __mp_main__ - INFO - CASanFrancisco: 1.0,1
+2020-05-17 21:23:17,246 - __mp_main__ - INFO - CASanFrancisco: 1.05,7
+2020-05-17 21:23:48,737 - __mp_main__ - INFO - CASanFrancisco: 0.96,18
+2020-05-17 21:23:48,740 - __mp_main__ - INFO - CASanFrancisco: 1.0,3
+2020-05-17 21:23:48,740 - __mp_main__ - INFO - CASanFrancisco: 1.04,2
+2020-05-17 21:24:06,018 - __mp_main__ - INFO - CASanFrancisco: 1.01,1
+2020-05-17 21:24:06,021 - __mp_main__ - INFO - CASanFrancisco: 1.04,7
+2020-05-17 21:24:06,021 - __mp_main__ - INFO - CASanFrancisco: 1.07,5
+2020-05-17 21:24:20,995 - __mp_main__ - INFO - CASanFrancisco: 0.99,0
+2020-05-17 21:24:20,998 - __mp_main__ - INFO - CASanFrancisco: 1.01,4
+2020-05-17 21:24:20,998 - __mp_main__ - INFO - CASanFrancisco: 1.03,2
+2020-05-17 21:24:28,231 - regressions - INFO - Looking for: 04-11-2020
+2020-05-17 21:24:28,238 - __mp_main__ - INFO - CASanFrancisco: Using coeffs
+2020-05-17 21:24:28,239 - __mp_main__ - INFO - CASanFrancisco: [-0.7074885536437789, 521819.0072055684]
+2020-05-17 21:24:54,375 - regressions - INFO - Looking for: 05-15-2020
+2020-05-17 21:24:56,853 - __mp_main__ - INFO - CASonoma:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 2, 1, 0, 2, 1, 12, 2, 2, 4, 5, 5, 2, 0, 13, 3, 16, 12, 6, 4, 5, 5, 2, 8, 5, 16, 0, 9, 0, 0, 2, 5, 8, 3, 9, 8, 0, 1, 1, 10, 2, 22, 1, 3, 0, 2, 10, 0, 12, 8, 0, 9, 0, 25, 6, 0, 8, 9, 0, 3, 21, 18, 13, 0, 9]
+2020-05-17 21:25:10,441 - __mp_main__ - INFO - CASonoma: 0.55,56
+2020-05-17 21:25:10,442 - __mp_main__ - INFO - CASonoma: 1.1,33
+2020-05-17 21:25:10,442 - __mp_main__ - INFO - CASonoma: 1.65,22
+2020-05-17 21:25:22,816 - __mp_main__ - INFO - CASonoma: 1.35,28
+2020-05-17 21:25:22,817 - __mp_main__ - INFO - CASonoma: 1.65,27
+2020-05-17 21:25:22,818 - __mp_main__ - INFO - CASonoma: 1.95,25
+2020-05-17 21:25:36,675 - __mp_main__ - INFO - CASonoma: 1.75,20
+2020-05-17 21:25:36,678 - __mp_main__ - INFO - CASonoma: 1.95,23
+2020-05-17 21:25:36,678 - __mp_main__ - INFO - CASonoma: 2.15,18
+2020-05-17 21:25:49,132 - __mp_main__ - INFO - CASonoma: 2.05,18
+2020-05-17 21:25:49,132 - __mp_main__ - INFO - CASonoma: 2.15,20
+2020-05-17 21:25:49,132 - __mp_main__ - INFO - CASonoma: 2.25,18
+2020-05-17 21:26:02,264 - __mp_main__ - INFO - CASonoma: 2.0,23
+2020-05-17 21:26:02,265 - __mp_main__ - INFO - CASonoma: 2.05,21
+2020-05-17 21:26:02,265 - __mp_main__ - INFO - CASonoma: 2.1,22
+2020-05-17 21:26:14,678 - __mp_main__ - INFO - CASonoma: 2.01,20
+2020-05-17 21:26:14,680 - __mp_main__ - INFO - CASonoma: 2.05,20
+2020-05-17 21:26:14,680 - __mp_main__ - INFO - CASonoma: 2.09,20
+2020-05-17 21:26:25,965 - __mp_main__ - INFO - CASonoma: 1.98,21
+2020-05-17 21:26:25,965 - __mp_main__ - INFO - CASonoma: 2.01,23
+2020-05-17 21:26:25,965 - __mp_main__ - INFO - CASonoma: 2.04,21
+2020-05-17 21:26:38,460 - __mp_main__ - INFO - CASonoma: 1.96,21
+2020-05-17 21:26:38,463 - __mp_main__ - INFO - CASonoma: 1.98,19
+2020-05-17 21:26:38,464 - __mp_main__ - INFO - CASonoma: 2.0,23
+2020-05-17 21:26:45,555 - regressions - INFO - Looking for: 05-15-2020
+2020-05-17 21:26:45,822 - __mp_main__ - INFO - CASonoma: Using coeffs
+2020-05-17 21:26:45,823 - __mp_main__ - INFO - CASonoma: [-0.7215808006001007, 532210.8064526957]
+2020-05-17 21:27:26,155 - regressions - INFO - Looking for: 04-04-2020
+2020-05-17 21:27:28,952 - __mp_main__ - INFO - CASanMateo:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 7, 6, 0, 0, 5, 12, 0, 9, 23, 16, 17, 13, 0, 7, 25, 19, 4, 30, 44, 35, 3, 32, 0, 79, 65, 33, 52, 17, 24, 10, 28, 16, 5, 14, 0, 49, 20, 26, 20, 30, 41, 0, 82, 15, 23, 8, 23, 30, 0, 61, 19, 37, 41, 20, 36, 0, 48, 34, 26, 0, 56, 28, 0, 39, 33, 18, 21, 39, 27, 0]
+2020-05-17 21:27:43,609 - __mp_main__ - INFO - CASanMateo: 0.55,140
+2020-05-17 21:27:43,609 - __mp_main__ - INFO - CASanMateo: 1.1,29
+2020-05-17 21:27:43,609 - __mp_main__ - INFO - CASanMateo: 1.65,1
+2020-05-17 21:27:55,217 - __mp_main__ - INFO - CASanMateo: 1.35,11
+2020-05-17 21:27:55,219 - __mp_main__ - INFO - CASanMateo: 1.65,13
+2020-05-17 21:27:55,220 - __mp_main__ - INFO - CASanMateo: 1.95,22
+2020-05-17 21:28:07,284 - __mp_main__ - INFO - CASanMateo: 1.15,19
+2020-05-17 21:28:07,285 - __mp_main__ - INFO - CASanMateo: 1.35,10
+2020-05-17 21:28:07,285 - __mp_main__ - INFO - CASanMateo: 1.55,1
+2020-05-17 21:28:18,910 - __mp_main__ - INFO - CASanMateo: 1.45,9
+2020-05-17 21:28:18,915 - __mp_main__ - INFO - CASanMateo: 1.55,2
+2020-05-17 21:28:18,915 - __mp_main__ - INFO - CASanMateo: 1.65,7
+2020-05-17 21:28:29,772 - __mp_main__ - INFO - CASanMateo: 1.5,2
+2020-05-17 21:28:29,772 - __mp_main__ - INFO - CASanMateo: 1.55,0
+2020-05-17 21:28:29,772 - __mp_main__ - INFO - CASanMateo: 1.6,0
+2020-05-17 21:28:40,827 - __mp_main__ - INFO - CASanMateo: 1.51,1
+2020-05-17 21:28:40,828 - __mp_main__ - INFO - CASanMateo: 1.55,1
+2020-05-17 21:28:40,828 - __mp_main__ - INFO - CASanMateo: 1.59,2
+2020-05-17 21:28:51,902 - __mp_main__ - INFO - CASanMateo: 1.48,3
+2020-05-17 21:28:51,905 - __mp_main__ - INFO - CASanMateo: 1.51,1
+2020-05-17 21:28:51,905 - __mp_main__ - INFO - CASanMateo: 1.54,1
+2020-05-17 21:29:02,847 - __mp_main__ - INFO - CASanMateo: 1.49,4
+2020-05-17 21:29:02,848 - __mp_main__ - INFO - CASanMateo: 1.51,1
+2020-05-17 21:29:02,848 - __mp_main__ - INFO - CASanMateo: 1.53,4
+2020-05-17 21:29:06,830 - regressions - INFO - Looking for: 04-04-2020
+2020-05-17 21:29:06,832 - __mp_main__ - INFO - CASanMateo: Using coeffs
+2020-05-17 21:29:06,832 - __mp_main__ - INFO - CASanMateo: [-1.0085995390733333, 743904.6933350632]
+2020-05-17 21:29:30,655 - regressions - INFO - Looking for: 05-09-2020
+2020-05-17 21:29:33,135 - __mp_main__ - INFO - CASantaBarbara:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 5, 1, 4, 5, 0, 6, 2, 16, 5, 17, 4, 20, 11, 12, 0, 41, 16, 6, 18, 26, 10, 15, 17, 4, 3, 17, 29, 21, 20, 19, 0, 21, 22, 13, 11, 11, 9, 9, 2, 2, 0, 12, 11, 10, 2, 6, 12, 18, 69, 109, 310, 218, 58, 54, 9, 5, 11, 15, 16, 56]
+2020-05-17 21:29:46,957 - __mp_main__ - INFO - CASantaBarbara: 0.55,724
+2020-05-17 21:29:46,960 - __mp_main__ - INFO - CASantaBarbara: 1.1,656
+2020-05-17 21:29:46,961 - __mp_main__ - INFO - CASantaBarbara: 1.65,642
+2020-05-17 21:29:59,991 - __mp_main__ - INFO - CASantaBarbara: 1.35,647
+2020-05-17 21:29:59,992 - __mp_main__ - INFO - CASantaBarbara: 1.65,641
+2020-05-17 21:29:59,992 - __mp_main__ - INFO - CASantaBarbara: 1.95,637
+2020-05-17 21:30:12,941 - __mp_main__ - INFO - CASantaBarbara: 1.75,638
+2020-05-17 21:30:12,942 - __mp_main__ - INFO - CASantaBarbara: 1.95,631
+2020-05-17 21:30:12,942 - __mp_main__ - INFO - CASantaBarbara: 2.15,629
+2020-05-17 21:30:25,266 - __mp_main__ - INFO - CASantaBarbara: 2.05,637
+2020-05-17 21:30:25,267 - __mp_main__ - INFO - CASantaBarbara: 2.15,628
+2020-05-17 21:30:25,267 - __mp_main__ - INFO - CASantaBarbara: 2.25,623
+2020-05-17 21:30:37,626 - __mp_main__ - INFO - CASantaBarbara: 2.2,627
+2020-05-17 21:30:37,627 - __mp_main__ - INFO - CASantaBarbara: 2.25,625
+2020-05-17 21:30:37,627 - __mp_main__ - INFO - CASantaBarbara: 2.3,621
+2020-05-17 21:30:49,540 - __mp_main__ - INFO - CASantaBarbara: 2.26,623
+2020-05-17 21:30:49,541 - __mp_main__ - INFO - CASantaBarbara: 2.3,623
+2020-05-17 21:30:49,541 - __mp_main__ - INFO - CASantaBarbara: 2.34,623
+2020-05-17 21:31:02,055 - __mp_main__ - INFO - CASantaBarbara: 2.23,626
+2020-05-17 21:31:02,055 - __mp_main__ - INFO - CASantaBarbara: 2.26,626
+2020-05-17 21:31:02,055 - __mp_main__ - INFO - CASantaBarbara: 2.29,623
+2020-05-17 21:31:13,741 - __mp_main__ - INFO - CASantaBarbara: 2.27,623
+2020-05-17 21:31:13,741 - __mp_main__ - INFO - CASantaBarbara: 2.29,627
+2020-05-17 21:31:13,741 - __mp_main__ - INFO - CASantaBarbara: 2.31,623
+2020-05-17 21:31:30,110 - regressions - INFO - Looking for: 05-09-2020
+2020-05-17 21:31:30,114 - __mp_main__ - INFO - CASantaBarbara: Using coeffs
+2020-05-17 21:31:30,115 - __mp_main__ - INFO - CASantaBarbara: [-0.24728630782104066, 182388.83424855958]
+2020-05-17 21:32:07,728 - regressions - INFO - Looking for: 03-26-2020
+2020-05-17 21:32:12,280 - __mp_main__ - INFO - CASantaClara:[0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 2, 0, 2, 4, 0, 5, 2, 4, 7, 9, 9, 4, 17, 15, 26, 23, 46, 43, 32, 35, 47, 53, 52, 62, 39, 38, 74, 69, 77, 74, 62, 41, 23, 78, 56, 54, 57, 40, 31, 42, 54, 40, 75, 67, 79, 41, 26, 38, 41, 23, 20, 36, 10, 12, 11, 2, 12, 41, 31, 22, 44, 21, 17, 12, 29, 16, 25, 27, 13, 11, 13, 13, 9, 17, 32, 2, 23, 17, 10, 12, 15, 35]
+2020-05-17 21:32:27,297 - __mp_main__ - INFO - CASantaClara: 0.55,71
+2020-05-17 21:32:27,299 - __mp_main__ - INFO - CASantaClara: 1.1,4
+2020-05-17 21:32:27,299 - __mp_main__ - INFO - CASantaClara: 1.65,30
+2020-05-17 21:32:37,948 - __mp_main__ - INFO - CASantaClara: 0.8,30
+2020-05-17 21:32:37,948 - __mp_main__ - INFO - CASantaClara: 1.1,7
+2020-05-17 21:32:37,948 - __mp_main__ - INFO - CASantaClara: 1.4,17
+2020-05-17 21:32:51,267 - __mp_main__ - INFO - CASantaClara: 0.9,13
+2020-05-17 21:32:51,269 - __mp_main__ - INFO - CASantaClara: 1.1,9
+2020-05-17 21:32:51,269 - __mp_main__ - INFO - CASantaClara: 1.3,18
+2020-05-17 21:33:05,316 - __mp_main__ - INFO - CASantaClara: 1.0,3
+2020-05-17 21:33:05,320 - __mp_main__ - INFO - CASantaClara: 1.1,9
+2020-05-17 21:33:05,320 - __mp_main__ - INFO - CASantaClara: 1.2,13
+2020-05-17 21:33:19,063 - __mp_main__ - INFO - CASantaClara: 0.95,4
+2020-05-17 21:33:19,065 - __mp_main__ - INFO - CASantaClara: 1.0,5
+2020-05-17 21:33:19,065 - __mp_main__ - INFO - CASantaClara: 1.05,7
+2020-05-17 21:33:30,833 - __mp_main__ - INFO - CASantaClara: 0.91,15
+2020-05-17 21:33:30,846 - __mp_main__ - INFO - CASantaClara: 0.95,4
+2020-05-17 21:33:30,846 - __mp_main__ - INFO - CASantaClara: 0.99,7
+2020-05-17 21:33:42,932 - __mp_main__ - INFO - CASantaClara: 0.92,8
+2020-05-17 21:33:42,934 - __mp_main__ - INFO - CASantaClara: 0.95,7
+2020-05-17 21:33:42,935 - __mp_main__ - INFO - CASantaClara: 0.98,1
+2020-05-17 21:33:54,641 - __mp_main__ - INFO - CASantaClara: 0.96,6
+2020-05-17 21:33:54,641 - __mp_main__ - INFO - CASantaClara: 0.98,3
+2020-05-17 21:33:54,641 - __mp_main__ - INFO - CASantaClara: 1.0,4
+2020-05-17 21:33:58,341 - regressions - INFO - Looking for: 03-26-2020
+2020-05-17 21:33:58,346 - __mp_main__ - INFO - CASantaClara: Using coeffs
+2020-05-17 21:33:58,347 - __mp_main__ - INFO - CASantaClara: [-0.059045006328317114, 43550.62806556751]
+2020-05-17 21:34:39,668 - regressions - INFO - Looking for: 04-04-2020
+2020-05-17 21:34:47,234 - __mp_main__ - INFO - CAAlameda:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 3, 0, 8, 3, 9, 4, 4, 10, 20, 41, 16, 2, 11, 28, 57, 36, 14, 13, 30, 46, 37, 47, 94, 29, 22, 46, 40, 39, 53, 40, 37, 41, 0, 78, 45, 54, 53, 50, 27, 48, 41, 70, 51, 36, 31, 30, 35, 35, 35, 33, 69, 44, 27, 33, 54, 54, 44, 62, 41, 37, 32, 45, 56, 66, 51, 41]
+2020-05-17 21:35:28,023 - __mp_main__ - INFO - CAAlameda: 0.55,284
+2020-05-17 21:35:28,027 - __mp_main__ - INFO - CAAlameda: 1.1,126
+2020-05-17 21:35:28,027 - __mp_main__ - INFO - CAAlameda: 1.65,87
+2020-05-17 21:35:48,148 - __mp_main__ - INFO - CAAlameda: 1.35,97
+2020-05-17 21:35:48,149 - __mp_main__ - INFO - CAAlameda: 1.65,81
+2020-05-17 21:35:48,149 - __mp_main__ - INFO - CAAlameda: 1.95,54
+2020-05-17 21:36:11,311 - __mp_main__ - INFO - CAAlameda: 1.75,74
+2020-05-17 21:36:11,315 - __mp_main__ - INFO - CAAlameda: 1.95,63
+2020-05-17 21:36:11,315 - __mp_main__ - INFO - CAAlameda: 2.15,48
+2020-05-17 21:36:26,745 - __mp_main__ - INFO - CAAlameda: 2.05,50
+2020-05-17 21:36:26,745 - __mp_main__ - INFO - CAAlameda: 2.15,43
+2020-05-17 21:36:26,745 - __mp_main__ - INFO - CAAlameda: 2.25,36
+2020-05-17 21:36:40,122 - __mp_main__ - INFO - CAAlameda: 2.2,49
+2020-05-17 21:36:40,122 - __mp_main__ - INFO - CAAlameda: 2.25,30
+2020-05-17 21:36:40,122 - __mp_main__ - INFO - CAAlameda: 2.3,34
+2020-05-17 21:36:59,880 - __mp_main__ - INFO - CAAlameda: 2.21,43
+2020-05-17 21:36:59,880 - __mp_main__ - INFO - CAAlameda: 2.25,35
+2020-05-17 21:36:59,880 - __mp_main__ - INFO - CAAlameda: 2.29,36
+2020-05-17 21:37:25,541 - __mp_main__ - INFO - CAAlameda: 2.22,50
+2020-05-17 21:37:25,544 - __mp_main__ - INFO - CAAlameda: 2.25,46
+2020-05-17 21:37:25,544 - __mp_main__ - INFO - CAAlameda: 2.28,42
+2020-05-17 21:37:43,412 - __mp_main__ - INFO - CAAlameda: 2.26,29
+2020-05-17 21:37:43,416 - __mp_main__ - INFO - CAAlameda: 2.28,42
+2020-05-17 21:37:43,416 - __mp_main__ - INFO - CAAlameda: 2.3,31
+2020-05-17 21:37:58,828 - regressions - INFO - Looking for: 04-04-2020
+2020-05-17 21:37:58,831 - __mp_main__ - INFO - CAAlameda: Using coeffs
+2020-05-17 21:37:58,831 - __mp_main__ - INFO - CAAlameda: [-0.6668861478683752, 491870.82046603505]
+2020-05-17 21:38:35,790 - regressions - INFO - Looking for: 04-04-2020
+2020-05-17 21:38:38,112 - __mp_main__ - INFO - CAContraCosta:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 6, 0, 1, 0, 0, 15, 4, 0, 5, 5, 2, 1, 4, 5, 10, 10, 15, 22, 23, 20, 17, 7, 12, 35, 28, 26, 31, 46, 33, 31, 25, 20, 22, 27, 19, 9, 13, 48, 15, 16, 17, 37, 8, 14, 42, 14, 7, 16, 19, 12, 3, 22, 20, 29, 16, 27, 11, 2, 22, 16, 14, 15, 22, 12, 0, 18, 14, 9, 11, 21, 25]
+2020-05-17 21:38:54,698 - __mp_main__ - INFO - CAContraCosta: 0.55,65
+2020-05-17 21:38:54,698 - __mp_main__ - INFO - CAContraCosta: 1.1,1
+2020-05-17 21:38:54,698 - __mp_main__ - INFO - CAContraCosta: 1.65,21
+2020-05-17 21:39:05,444 - __mp_main__ - INFO - CAContraCosta: 0.8,26
+2020-05-17 21:39:05,446 - __mp_main__ - INFO - CAContraCosta: 1.1,2
+2020-05-17 21:39:05,446 - __mp_main__ - INFO - CAContraCosta: 1.4,11
+2020-05-17 21:39:19,103 - __mp_main__ - INFO - CAContraCosta: 0.9,16
+2020-05-17 21:39:19,106 - __mp_main__ - INFO - CAContraCosta: 1.1,1
+2020-05-17 21:39:19,106 - __mp_main__ - INFO - CAContraCosta: 1.3,5
+2020-05-17 21:39:30,099 - __mp_main__ - INFO - CAContraCosta: 1.0,1
+2020-05-17 21:39:30,100 - __mp_main__ - INFO - CAContraCosta: 1.1,2
+2020-05-17 21:39:30,100 - __mp_main__ - INFO - CAContraCosta: 1.2,4
+2020-05-17 21:39:46,160 - __mp_main__ - INFO - CAContraCosta: 0.95,7
+2020-05-17 21:39:46,162 - __mp_main__ - INFO - CAContraCosta: 1.0,1
+2020-05-17 21:39:46,163 - __mp_main__ - INFO - CAContraCosta: 1.05,1
+2020-05-17 21:40:09,762 - __mp_main__ - INFO - CAContraCosta: 0.96,6
+2020-05-17 21:40:09,765 - __mp_main__ - INFO - CAContraCosta: 1.0,1
+2020-05-17 21:40:09,765 - __mp_main__ - INFO - CAContraCosta: 1.04,2
+2020-05-17 21:40:26,300 - __mp_main__ - INFO - CAContraCosta: 0.97,7
+2020-05-17 21:40:26,301 - __mp_main__ - INFO - CAContraCosta: 1.0,0
+2020-05-17 21:40:26,301 - __mp_main__ - INFO - CAContraCosta: 1.03,3
+2020-05-17 21:40:38,335 - __mp_main__ - INFO - CAContraCosta: 0.98,2
+2020-05-17 21:40:38,335 - __mp_main__ - INFO - CAContraCosta: 1.0,1
+2020-05-17 21:40:38,335 - __mp_main__ - INFO - CAContraCosta: 1.02,1
+2020-05-17 21:40:41,506 - regressions - INFO - Looking for: 04-04-2020
+2020-05-17 21:40:41,510 - __mp_main__ - INFO - CAContraCosta: Using coeffs
+2020-05-17 21:40:41,510 - __mp_main__ - INFO - CAContraCosta: [-0.705446783088043, 520312.89791402785]
+2020-05-17 21:41:02,980 - regressions - INFO - Looking for: 05-15-2020
+2020-05-17 21:41:06,079 - __mp_main__ - INFO - CAOrange:[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 1, 0, 7, 1, 3, 5, 7, 13, 11, 12, 13, 17, 30, 27, 35, 69, 65, 82, 28, 33, 38, 104, 50, 55, 75, 48, 48, 49, 85, 63, 59, 83, 56, 6, 16, 77, 49, 76, 55, 80, 40, 15, 62, 74, 18, 124, 105, 52, 25, 101, 141, 144, 99, 107, 76, 54, 131, 88, 148, 140, 122, 55, 45, 147, 219, 157, 97, 154]
+2020-05-17 21:41:26,814 - __mp_main__ - INFO - CAOrange: 0.55,741
+2020-05-17 21:41:26,816 - __mp_main__ - INFO - CAOrange: 1.1,364
+2020-05-17 21:41:26,816 - __mp_main__ - INFO - CAOrange: 1.65,261
+2020-05-17 21:41:41,478 - __mp_main__ - INFO - CAOrange: 1.35,317
+2020-05-17 21:41:41,479 - __mp_main__ - INFO - CAOrange: 1.65,264
+2020-05-17 21:41:41,479 - __mp_main__ - INFO - CAOrange: 1.95,221
+2020-05-17 21:41:57,478 - __mp_main__ - INFO - CAOrange: 1.75,245
+2020-05-17 21:41:57,479 - __mp_main__ - INFO - CAOrange: 1.95,219
+2020-05-17 21:41:57,480 - __mp_main__ - INFO - CAOrange: 2.15,189
+2020-05-17 21:42:13,439 - __mp_main__ - INFO - CAOrange: 2.05,206
+2020-05-17 21:42:13,439 - __mp_main__ - INFO - CAOrange: 2.15,179
+2020-05-17 21:42:13,439 - __mp_main__ - INFO - CAOrange: 2.25,179
+2020-05-17 21:42:28,002 - __mp_main__ - INFO - CAOrange: 2.1,187
+2020-05-17 21:42:28,002 - __mp_main__ - INFO - CAOrange: 2.15,175
+2020-05-17 21:42:28,002 - __mp_main__ - INFO - CAOrange: 2.2,175
+2020-05-17 21:42:42,718 - __mp_main__ - INFO - CAOrange: 2.11,199
+2020-05-17 21:42:42,721 - __mp_main__ - INFO - CAOrange: 2.15,183
+2020-05-17 21:42:42,721 - __mp_main__ - INFO - CAOrange: 2.19,177
+2020-05-17 21:42:59,529 - __mp_main__ - INFO - CAOrange: 2.16,186
+2020-05-17 21:42:59,529 - __mp_main__ - INFO - CAOrange: 2.19,166
+2020-05-17 21:42:59,529 - __mp_main__ - INFO - CAOrange: 2.22,180
+2020-05-17 21:43:14,761 - __mp_main__ - INFO - CAOrange: 2.17,186
+2020-05-17 21:43:14,763 - __mp_main__ - INFO - CAOrange: 2.19,187
+2020-05-17 21:43:14,763 - __mp_main__ - INFO - CAOrange: 2.21,176
+2020-05-17 21:43:38,556 - regressions - INFO - Looking for: 05-15-2020
+2020-05-17 21:43:38,562 - __mp_main__ - INFO - CAOrange: Using coeffs
+2020-05-17 21:43:38,562 - __mp_main__ - INFO - CAOrange: [-0.25662891459905096, 189280.91903991552]
+2020-05-17 21:44:20,708 - regressions - INFO - Looking for: 05-08-2020
+2020-05-17 21:44:23,770 - __mp_main__ - INFO - CASanDiego:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0, 31, 14, 5, 17, 14, 31, 28, 46, 36, 12, 55, 44, 76, 71, 31, 84, 131, 115, 117, 146, 97, 117, 78, 50, 76, 98, 65, 68, 43, 43, 83, 82, 75, 71, 55, 55, 57, 109, 57, 152, 183, 117, 100, 98, 173, 118, 132, 147, 131, 85, 93, 140, 159, 110, 233, 114, 150, 139, 96, 117, 113, 132, 139, 174]
+2020-05-17 21:44:57,995 - __mp_main__ - INFO - CASanDiego: 0.55,792
+2020-05-17 21:44:57,997 - __mp_main__ - INFO - CASanDiego: 1.1,306
+2020-05-17 21:44:57,997 - __mp_main__ - INFO - CASanDiego: 1.65,158
+2020-05-17 21:45:13,196 - __mp_main__ - INFO - CASanDiego: 1.35,226
+2020-05-17 21:45:13,197 - __mp_main__ - INFO - CASanDiego: 1.65,158
+2020-05-17 21:45:13,197 - __mp_main__ - INFO - CASanDiego: 1.95,107
+2020-05-17 21:45:32,188 - __mp_main__ - INFO - CASanDiego: 1.75,138
+2020-05-17 21:45:32,195 - __mp_main__ - INFO - CASanDiego: 1.95,114
+2020-05-17 21:45:32,195 - __mp_main__ - INFO - CASanDiego: 2.15,59
+2020-05-17 21:45:52,363 - __mp_main__ - INFO - CASanDiego: 2.05,83
+2020-05-17 21:45:52,365 - __mp_main__ - INFO - CASanDiego: 2.15,67
+2020-05-17 21:45:52,365 - __mp_main__ - INFO - CASanDiego: 2.25,40
+2020-05-17 21:46:10,845 - __mp_main__ - INFO - CASanDiego: 2.2,39
+2020-05-17 21:46:10,848 - __mp_main__ - INFO - CASanDiego: 2.25,34
+2020-05-17 21:46:10,848 - __mp_main__ - INFO - CASanDiego: 2.3,34
+2020-05-17 21:46:34,137 - __mp_main__ - INFO - CASanDiego: 2.21,43
+2020-05-17 21:46:34,140 - __mp_main__ - INFO - CASanDiego: 2.25,31
+2020-05-17 21:46:34,140 - __mp_main__ - INFO - CASanDiego: 2.29,24
+2020-05-17 21:46:58,809 - __mp_main__ - INFO - CASanDiego: 2.26,45
+2020-05-17 21:46:58,811 - __mp_main__ - INFO - CASanDiego: 2.29,19
+2020-05-17 21:46:58,812 - __mp_main__ - INFO - CASanDiego: 2.32,20
+2020-05-17 21:47:17,471 - __mp_main__ - INFO - CASanDiego: 2.27,32
+2020-05-17 21:47:17,472 - __mp_main__ - INFO - CASanDiego: 2.29,33
+2020-05-17 21:47:17,472 - __mp_main__ - INFO - CASanDiego: 2.31,27
+2020-05-17 21:47:51,780 - regressions - INFO - Looking for: 05-08-2020
+2020-05-17 21:47:51,784 - __mp_main__ - INFO - CASanDiego: Using coeffs
+2020-05-17 21:47:51,785 - __mp_main__ - INFO - CASanDiego: [-0.11678687719127431, 86139.38710938719]
+2020-05-17 21:48:36,043 - regressions - INFO - Looking for: 04-03-2020
+2020-05-17 21:48:39,774 - __mp_main__ - INFO - CASacramento:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 7, 12, 3, 1, 7, 0, 5, 8, 0, 0, 35, 0, 25, 0, 51, 0, 0, 60, 0, 90, 27, 49, 0, 52, 20, 63, 55, 33, 40, 46, 8, 32, 77, 37, 26, 17, 18, 11, 15, 14, 17, 16, 32, 6, 12, 8, 8, 15, 9, 13, 17, 10, 10, 6, 9, 11, 7, 5, 2, 6, 8, 2, 11, 17, 11, 15]
+2020-05-17 21:49:00,546 - __mp_main__ - INFO - CASacramento: 0.55,33
+2020-05-17 21:49:00,549 - __mp_main__ - INFO - CASacramento: 1.1,5
+2020-05-17 21:49:00,549 - __mp_main__ - INFO - CASacramento: 1.65,21
+2020-05-17 21:49:16,500 - __mp_main__ - INFO - CASacramento: 0.8,13
+2020-05-17 21:49:16,501 - __mp_main__ - INFO - CASacramento: 1.1,9
+2020-05-17 21:49:16,501 - __mp_main__ - INFO - CASacramento: 1.4,16
+2020-05-17 21:49:29,704 - __mp_main__ - INFO - CASacramento: 0.9,0
+2020-05-17 21:49:29,704 - __mp_main__ - INFO - CASacramento: 1.1,10
+2020-05-17 21:49:29,704 - __mp_main__ - INFO - CASacramento: 1.3,12
+2020-05-17 21:49:45,145 - __mp_main__ - INFO - CASacramento: 0.8,13
+2020-05-17 21:49:45,148 - __mp_main__ - INFO - CASacramento: 0.9,0
+2020-05-17 21:49:45,148 - __mp_main__ - INFO - CASacramento: 1.0,6
+2020-05-17 21:49:59,452 - __mp_main__ - INFO - CASacramento: 0.85,6
+2020-05-17 21:49:59,453 - __mp_main__ - INFO - CASacramento: 0.9,1
+2020-05-17 21:49:59,454 - __mp_main__ - INFO - CASacramento: 0.95,1
+2020-05-17 21:50:12,463 - __mp_main__ - INFO - CASacramento: 0.86,3
+2020-05-17 21:50:12,463 - __mp_main__ - INFO - CASacramento: 0.9,2
+2020-05-17 21:50:12,464 - __mp_main__ - INFO - CASacramento: 0.94,0
+2020-05-17 21:50:25,466 - __mp_main__ - INFO - CASacramento: 0.91,1
+2020-05-17 21:50:25,468 - __mp_main__ - INFO - CASacramento: 0.94,2
+2020-05-17 21:50:25,468 - __mp_main__ - INFO - CASacramento: 0.97,5
+2020-05-17 21:50:37,900 - __mp_main__ - INFO - CASacramento: 0.89,1
+2020-05-17 21:50:37,900 - __mp_main__ - INFO - CASacramento: 0.91,1
+2020-05-17 21:50:37,901 - __mp_main__ - INFO - CASacramento: 0.93,2
+2020-05-17 21:50:41,177 - regressions - INFO - Looking for: 04-03-2020
+2020-05-17 21:50:41,179 - __mp_main__ - INFO - CASacramento: Using coeffs
+2020-05-17 21:50:41,179 - __mp_main__ - INFO - CASacramento: [-0.3907655155768706, 288215.5334565959]
+2020-05-17 21:51:41,980 - regressions - INFO - Looking for: 04-18-2020
+2020-05-17 21:51:45,043 - __mp_main__ - INFO - CALosAngeles:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 2, 4, 2, 8, 5, 6, 5, 7, 10, 11, 13, 11, 28, 15, 15, 22, 29, 25, 18, 24, 31, 24, 40, 42, 53, 40, 81, 24, 17, 46, 66, 68, 51, 47, 18, 29, 58, 56, 55, 61, 37, 20, 27, 57, 54, 51, 50, 44, 18, 39, 44, 46, 50, 46, 38, 28]
+2020-05-17 21:52:04,014 - __mp_main__ - INFO - CALosAngeles: 0.55,232
+2020-05-17 21:52:04,017 - __mp_main__ - INFO - CALosAngeles: 1.1,61
+2020-05-17 21:52:04,017 - __mp_main__ - INFO - CALosAngeles: 1.65,1
+2020-05-17 21:52:21,511 - __mp_main__ - INFO - CALosAngeles: 1.35,29
+2020-05-17 21:52:21,514 - __mp_main__ - INFO - CALosAngeles: 1.65,17
+2020-05-17 21:52:21,514 - __mp_main__ - INFO - CALosAngeles: 1.95,11
+2020-05-17 21:52:39,102 - __mp_main__ - INFO - CALosAngeles: 1.75,1
+2020-05-17 21:52:39,102 - __mp_main__ - INFO - CALosAngeles: 1.95,15
+2020-05-17 21:52:39,102 - __mp_main__ - INFO - CALosAngeles: 2.15,30
+2020-05-17 21:52:55,790 - __mp_main__ - INFO - CALosAngeles: 1.65,10
+2020-05-17 21:52:55,791 - __mp_main__ - INFO - CALosAngeles: 1.75,4
+2020-05-17 21:52:55,791 - __mp_main__ - INFO - CALosAngeles: 1.85,13
+2020-05-17 21:53:12,635 - __mp_main__ - INFO - CALosAngeles: 1.7,7
+2020-05-17 21:53:12,637 - __mp_main__ - INFO - CALosAngeles: 1.75,3
+2020-05-17 21:53:12,637 - __mp_main__ - INFO - CALosAngeles: 1.8,2
+2020-05-17 21:53:27,722 - __mp_main__ - INFO - CALosAngeles: 1.76,3
+2020-05-17 21:53:27,722 - __mp_main__ - INFO - CALosAngeles: 1.8,1
+2020-05-17 21:53:27,722 - __mp_main__ - INFO - CALosAngeles: 1.84,2
+2020-05-17 21:53:41,642 - __mp_main__ - INFO - CALosAngeles: 1.77,5
+2020-05-17 21:53:41,643 - __mp_main__ - INFO - CALosAngeles: 1.8,3
+2020-05-17 21:53:41,644 - __mp_main__ - INFO - CALosAngeles: 1.83,8
+2020-05-17 21:53:56,354 - __mp_main__ - INFO - CALosAngeles: 1.78,4
+2020-05-17 21:53:56,354 - __mp_main__ - INFO - CALosAngeles: 1.8,6
+2020-05-17 21:53:56,354 - __mp_main__ - INFO - CALosAngeles: 1.82,6
+2020-05-17 21:54:04,985 - regressions - INFO - Looking for: 04-18-2020
+2020-05-17 21:54:04,988 - __mp_main__ - INFO - CALosAngeles: Using coeffs
+2020-05-17 21:54:04,989 - __mp_main__ - INFO - CALosAngeles: [-0.3131258414735831, 230950.3895441199]
